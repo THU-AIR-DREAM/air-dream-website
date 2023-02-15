@@ -1,4 +1,4 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:AIR-DI/AIR-DI.github.io.git
-	branch = main
+# [submodule "public"]
+# 	path = public
+# 	url = git@github.com:AIR-DI/AIR-DI.github.io.git
+# 	branch = main
