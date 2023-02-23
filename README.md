@@ -8,6 +8,9 @@
   2. 下载zip并解压到本地，如C:\Program Files\Hugo，然后将路径添加到环境变量;
   3. 在命令行中执行hugo version可检查安装是否正确;
 
+### Install Go
+* Download the [installation package of Go](https://go.dev/dl/) and install it.
+
 ### Install [hugo-academic-cli](https://github.com/wowchemy/hugo-academic-cli)(Optional)
 * Function: Import publications from your reference manager to Hugo(Import publications from BibTex);
 * Installation: pip3 install academic==0.5.1;
