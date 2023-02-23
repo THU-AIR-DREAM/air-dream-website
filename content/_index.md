@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: hero
+    id: home
     content:
       title: AIR-DI
       image:
@@ -81,7 +82,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
   - block: collection
     id: featured
     content:
@@ -117,11 +118,28 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: people
+  #   id: people
+  #   content:
+  #     title: Meet the Team
+  #     user_groups:
+  #       - Researchers
+  #     sort_by: last_name
+  #     sort_ascending: true
+  #   design:
+  #     # Show user's social networking links? (true/false)
+  #     show_social: false
+  #     # Show user's interests? (true/false)
+  #     show_interests: true
+  #     # Show user's role?
+  #     show_role: true
+  #     # Show user's organizations/affiliations?
+  #     show_organizations: true
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
@@ -133,7 +151,7 @@ sections:
         street: 
         city: Beijing
         region: 
-        postcode: ''
+        postcode: '100000'
         country: China
         country_code: 
       directions: 
@@ -146,13 +164,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
+      #    # Enable CAPTCHA challenge to reduce spam?
+      #    captcha: false
     design:
       columns: '2'
 ---

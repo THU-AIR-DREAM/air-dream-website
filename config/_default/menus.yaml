@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '#home'
     weight: 10
   - name: Posts
     url: '#posts'
@@ -20,7 +20,7 @@ main:
     url: '#featured'
     weight: 40
   - name: People
-    url: /
+    url: '#people'
     weight: 60
 #  - name: Contact
 #    url: '#contact'

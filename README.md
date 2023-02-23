@@ -1,3 +1,42 @@
+# Site Develop Guide
+
+## Preparation
+
+### Install Hugo
+* For Windows
+  1. 在[github release](https://github.com/gohugoio/hugo/releases)中下载预编译程序（下载带有hugo_extended_xxx 的版本，这里使用[hugo_extended_0.110.0_windows-amd64.zip](https://github.com/gohugoio/hugo/releases/download/v0.110.0/hugo_extended_0.110.0_windows-amd64.zip)）；
+  2. 下载zip并解压到本地，如C:\Program Files\Hugo，然后将路径添加到环境变量;
+  3. 在命令行中执行hugo version可检查安装是否正确;
+
+### Install [hugo-academic-cli](https://github.com/wowchemy/hugo-academic-cli)(Optional)
+* Function: Import publications from your reference manager to Hugo(Import publications from BibTex);
+* Installation: pip3 install academic==0.5.1;
+* Usage(To add a new publication): 
+  1. Add the BibTex record of the publication to [publications.bib](./publications.bib) within the root directory of this repo;
+  2. Use the cd command to navigate to your website folder(the root directory of this repo) in the terminal;
+  3. Import your publications with: `academic import --bibtex publications.bib`;
+  4. The generated output in the content/publication folder should be reviewed prior to publishing your site.
+
+## Develop
+* 开启本地测试服务器
+  * 代码库根目录下开启终端并输入hugo server来启动测试服务器，@http://localhost:1313
+  * hugo server会自动侦测源文件变动自动刷新页面
+* 网页个性化配置
+  * 参考[官方文档](https://wowchemy.com/docs/).
+  * Hugo site structure
+    > There are 3 main folders for Hugo sites:
+    * `content/` for your Markdown-formatted content files (homepage, etc.)
+    * `assets/media/` for your media files (images, videos)
+    * `config/_default/` for your site configuration files
+      * `config.yaml` to configure Hugo (site title, URL, Hugo options, enable page features)
+      * `params.yaml` to configure Wowchemy options (SEO, site features)
+      * `menus.yaml` to configure your menu links (if the menu is enabled in params.yaml)
+      * `languages.yaml` to configure your site’s language or to set language-specific options in a multilingual site
+* 网页部署
+  * This site is deployed with [Netlify](https://www.netlify.com/)
+    > Netlify is free and provides ultra-fast global access, automated deployment when you add content, and automatic HTTPS security.
+  * When you commit the modification and push it, the site will be deployed automatically.
+
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)

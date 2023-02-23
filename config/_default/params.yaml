@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: Minimal
+  theme_night: Minimal
+  font: Minimal
   font_size: m
 
 # SEO
@@ -31,6 +31,7 @@ marketing:
 
 header:
   navbar:
+    block: navbar
     enable: true
     align: r
     show_logo: true
