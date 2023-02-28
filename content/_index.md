@@ -118,23 +118,27 @@ sections:
     design:
       columns: '2'
       view: compact
-  # - block: people
-  #   id: people
-  #   content:
-  #     title: Meet the Team
-  #     user_groups:
-  #       - Researchers
-  #     sort_by: last_name
-  #     sort_ascending: true
-  #   design:
-  #     # Show user's social networking links? (true/false)
-  #     show_social: false
-  #     # Show user's interests? (true/false)
-  #     show_interests: true
-  #     # Show user's role?
-  #     show_role: true
-  #     # Show user's organizations/affiliations?
-  #     show_organizations: true
+  - block: people
+    id: people
+    content:
+      title: Meet the Team
+      filters:
+        folders:
+          - authors
+      user_groups:
+        - Researchers
+        - Visitors
+      sort_by: 
+      sort_ascending: true
+    design:
+      # Show user's social networking links? (true/false)
+      show_social: true
+      # Show user's interests? (true/false)
+      show_interests: false
+      # Show user's role?
+      show_role: true
+      # Show user's organizations/affiliations?
+      show_organizations: true
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics

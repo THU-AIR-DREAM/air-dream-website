@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xianyuan Zhan
+title: Alice Wu
 
 # Full name (for SEO)
-first_name: Xianyuan
-last_name: Zhan
+first_name: Alice
+last_name: Wu
 
 # Status emoji
 status:
@@ -80,7 +80,7 @@ email: ''
 highlight_name: true
 
 user_groups:
-  - Researchers
+  - Visitors
 
 ---
 
