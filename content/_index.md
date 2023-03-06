@@ -118,7 +118,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: people
+  - block: github.zackxiangyu.people
     id: people
     content:
       title: Meet the Team

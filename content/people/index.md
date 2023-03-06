@@ -7,7 +7,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: people
+  - block: github.zackxiangyu.people
     content:
       title: Meet the Team
       filters:
