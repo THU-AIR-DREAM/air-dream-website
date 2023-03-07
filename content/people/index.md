@@ -22,6 +22,7 @@ sections:
           - Administration
           - Visitors
           - Alumni
+          - Research Engineer
       sort_by: .Params.last_name
       sort_ascending: true
     design:

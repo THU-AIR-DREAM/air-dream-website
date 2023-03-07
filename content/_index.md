@@ -8,14 +8,15 @@ sections:
   - block: hero
     id: home
     content:
-      title: AIR-DI
+      title: DREAM
       image:
-        filename: hero-robot-head-s.png
-        size: s
+        filename: hero-robot-head-xs.png
       text: |-
-        **The description of our group.**
+        **Decision-making Research for Empowered AI Methods.**
 
-        Some introduction content.
+        <!-- DREAM团队的研究方向是探索如何在决策制定中应用强大的人工智能方法。我们致力于提高AI技术的应用能力，使其能够更好地服务于现实生活和产业界的决策需求。-->
+
+        DREAM focuses on research related to decision-making in the field of artificial intelligence. The team aims to empower Al methods to address real-world problems and challenges.
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
@@ -27,7 +28,7 @@ sections:
         # gradient_start: '#004ba0'
         gradient_end: '#A9D0F5'
         gradient_start: '#01A9DB'
-        gradient_angle: 90
+        gradient_angle: 180
         text_color_light: true
   - block: collection
     id: posts
@@ -126,8 +127,8 @@ sections:
         folders:
           - authors
       user_groups:
+        - Principal Investigators
         - Researchers
-        - Visitors
       sort_by: 
       sort_ascending: true
     design:
@@ -144,6 +145,14 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="group" >}}
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
