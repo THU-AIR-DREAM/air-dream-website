@@ -10,29 +10,30 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Research Intern
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Institute for AI Industry Research (AIR), Tsinghua University
+  url: "https://air.tsinghua.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Reinforcement Learning
+- Autonomous Driving
+- Robotics
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  # - course: Title course 1
+  #   institution: Tsinghua University
+  #   year: 2012
+  - course: B.E. in Automation
+    institution: Tsinghua University
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -41,16 +42,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 't6.da.thu@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: https://twitter.com/t641769919
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?user=6zozRRYAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/t6-thu
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Haoyi-Niu-2
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7072-3787
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "nhy22@mails.tsinghua.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,3 +76,8 @@ user_groups:
 - Researchers
 - Group 2
 ---
+
+Hi! I am currently a master student at Intelligent Transportation Lab, Institute of Systems Engineering, Department of Automation, Tsinghua University. Additionally, I work as a research intern at Institute for AI Industry Research (AIR), Tsinghua University, advised by Prof. Xianyuan Zhan. I got my bachelor’s degree in June 2022 from the Department of Automation, Tsinghua University. 
+
+My research interest broadly lies in advanced data-driven learning theory and algorithms on decision making and optimization, such as reinforcement learning (RL), as well as their promising applications on autonomous driving and robotics. However, over recent years, criticism against RL continues to pour regarding its limited real-world applicability. Specifically, I therefore pay much attention to bridging the complex and intractable sim-to-real gaps that potentially deteriorate RL policies, seeking more practical solutions for real-world deployment. Find more about me at https://t6-thu.github.io/.
+{style="text-align: justify;"}
