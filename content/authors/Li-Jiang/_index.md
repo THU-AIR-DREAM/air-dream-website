@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Jiang Li"
+title: "Li Jiang"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "jiang-li"
+- "li-jiang"
 
 # Is this the primary user of the site?
 superuser: false
@@ -67,5 +67,5 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Group 2
+- Research team members
 ---

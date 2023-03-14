@@ -127,8 +127,7 @@ sections:
         folders:
           - authors
       user_groups:
-        - Principal Investigators
-        - Researchers
+        - Research team members
       sort_by: 
       sort_ascending: true
     design:

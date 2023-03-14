@@ -74,7 +74,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Group 2
+- Research team members
 ---
 
 Hi! I am currently a master student at Intelligent Transportation Lab, Institute of Systems Engineering, Department of Automation, Tsinghua University. Additionally, I work as a research intern at Institute for AI Industry Research (AIR), Tsinghua University, advised by Prof. Xianyuan Zhan. I got my bachelor’s degree in June 2022 from the Department of Automation, Tsinghua University. 

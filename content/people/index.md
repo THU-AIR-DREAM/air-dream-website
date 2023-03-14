@@ -23,6 +23,7 @@ sections:
           - Visitors
           - Alumni
           - Research Engineer
+          - Research team members
       sort_by: .Params.last_name
       sort_ascending: true
     design:
