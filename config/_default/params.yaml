@@ -6,20 +6,20 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  theme_day: Minimal
+  theme_night: Minimal
+  font: Minimal
+  font_size: m
 
 # SEO
 
 marketing:
   seo:
-    site_type: Person
+    site_type: ResearchOrganization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'AIR-DREAM'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -33,8 +33,9 @@ marketing:
 
 header:
   navbar:
+    block: navbar
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -66,7 +67,7 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
