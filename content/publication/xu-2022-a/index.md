@@ -8,5 +8,11 @@ abstract: ""
 featured: false
 publication: "*Advances in Neural Information Processing Systems*"
 url_pdf: "https://openreview.net/forum?id=CKbqDtZnSc"
+
+projects: 
+  - Algorithms  
+
+tags:
+  - Algorithms  
 ---
 

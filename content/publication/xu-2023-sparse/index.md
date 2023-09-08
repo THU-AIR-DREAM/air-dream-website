@@ -43,13 +43,10 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: 
-  - example
-  
-researches:
-  - example
-  
-tags: 
-  - research
+  - Algorithms  
+
+tags:
+  - Algorithms  
 
 ---
 

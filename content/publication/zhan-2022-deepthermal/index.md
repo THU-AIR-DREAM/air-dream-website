@@ -8,5 +8,13 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the AAAI Conference on Artificial Intelligence*"
 url_pdf: "https://arxiv.org/abs/2102.11492"
+
+projects: 
+  - Algorithms  
+  - AIoT
+
+tags:
+  - Algorithms  
+  - AIoT
 ---
 

@@ -8,5 +8,11 @@ abstract: ""
 featured: false
 publication: "*International Joint Conference on Artificial Intelligence*"
 url_pdf: "https://www.ijcai.org/proceedings/2022/0516.pdf"
+
+projects: 
+  - Algorithms  
+
+tags:
+  - Algorithms  
 ---
 
