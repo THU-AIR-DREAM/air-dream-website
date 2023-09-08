@@ -35,5 +35,10 @@ image:
   preview_only: false
   alt_text:
   # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
+
+projects:
+  - Robotics
+  - Algorithms
+
 ---
 
