@@ -9,7 +9,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
+# Role/position (e.g., Faculty Member, Research Staff, PhD Student, Research Intern)
 role: Research Intern
 
 # Organizations/Affiliations

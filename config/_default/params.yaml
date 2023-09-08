@@ -46,7 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} - AIR-DREAM.'
+    notice: '© {year} - AIR-DREAM Lab.'
     license:
       enable: false
       allow_derivatives: false
