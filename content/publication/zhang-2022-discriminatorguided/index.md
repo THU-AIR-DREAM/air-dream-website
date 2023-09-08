@@ -8,5 +8,13 @@ abstract: ""
 featured: false
 publication: "*6th Annual Conference on Robot Learning*"
 url_pdf: "https://openreview.net/forum?id=RzhhFh4rkWu"
+
+projects: 
+  - Algorithms  
+  - Robotics
+
+tags:
+  - Algorithms  
+  - Robotics
 ---
 

@@ -8,5 +8,11 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the AAAI Conference on Artificial Intelligence*"
 url_pdf: "https://arxiv.org/abs/2107.09003"
+
+projects: 
+  - Algorithms  
+
+tags:
+  - Algorithms  
 ---
 

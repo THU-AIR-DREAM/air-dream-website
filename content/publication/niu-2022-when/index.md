@@ -39,6 +39,10 @@ image:
 projects:
   - Robotics
   - Algorithms
+  
+tags:
+  - Robotics
+  - Algorithms
 
 ---
 

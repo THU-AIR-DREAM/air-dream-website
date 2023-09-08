@@ -8,5 +8,11 @@ abstract: ""
 featured: false
 publication: "*International Conference on Machine Learning*"
 url_pdf: "https://proceedings.mlr.press/v162/xu22l/xu22l.pdf"
+
+projects: 
+  - Algorithms  
+
+tags:
+  - Algorithms  
 ---
 

@@ -1,4 +1,5 @@
 ---
+#draft: true
 title: Tools & Libraries
 summary:  Tools & software libraries for data-driven decision-making problems.
 tags:
@@ -36,4 +37,15 @@ We provide open code implementations for most of our research, please check our 
 - [Data-Driven Control Lib (D2C)](https://github.com/AIR-DI/D2C): is a data-driven decision-making algorithm library designed for solving real-world control/optimization problems. It implements a series of advanced offline RL/IL algorithms and provide easy-to-use tools & utilities to facilitate real-world deployment. 
 
 ## Online RL library
-- OneRL
+- [OneRL](https://github.com/imoneoi/onerl): Event-driven fully distributed reinforcement learning framework proposed in "A Versatile and Efficient Reinforcement Learning Approach for Autonomous Driving" (https://arxiv.org/abs/2110.11573) that can facilitate highly efficient policy learning in RL-based tasks.
+
+  - Super fast RL training! (15~30min for MuJoCo & Atari on single machine)
+  - State-of-the-art performance
+  - Scheduled and pipelined sample collection
+  - Completely lock-free execution
+  - Fully distributed architecture
+  - Full profiling & overhead identification tools 
+  - Online visualization & rendering
+  - Support multi-GPU parallel training
+  - Support exporting trained policy to ONNX for faster inference & deployment
+
