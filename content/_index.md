@@ -12,12 +12,15 @@ sections:
       image:
         filename: hero-robot-head-xs.png
       text: |- 
-      
-        **Decision-making Research for Empowered AI Methods(AIR-DREAM)**
 
         <!-- DREAM团队的研究方向是探索如何在决策制定中应用强大的人工智能方法。我们致力于提高AI技术的应用能力，使其能够更好地服务于现实生活和产业界的决策需求。-->
+
         <font size=3>
-        DREAM focuses on research related to decision-making in the field of artificial intelligence. The team aims to empower Al methods to address real-world problems and challenges.
+        Welcome to 
+        <b>
+        AIR-DREAM (Decision-making Research for Empowered AI Methods) Lab
+        </b>
+        website! AIR-DREAM Lab is a research group at <a href="https://air.tsinghua.edu.cn/en/">Institute for AI Industry Research (AIR)</a>, Tsinghua University. Our research focus is to develop advanced learning-based data-driven decision-making theories and practical technologies that are robust, generalizable, and deployable to tackle real-world challenges. We work on fundamental learning algorithms, robust robotic control methods, optimization technologies for real-world AIoT systems, and data-driven decision-making tools & libraries.
         </font>
 
         <!--Custom spacing-->
@@ -72,6 +75,8 @@ sections:
         - news 1  
         
         - news 2
+        
+        **We are hiring:** we are looking for postdocs and student interns. If you are interested in the research directions of data-driven decision-making, please feel free to contact us!
     design:
       columns: '2'
       background:
@@ -117,13 +122,30 @@ sections:
 #      # Choose a layout view
 #      view: compact
 #      columns: '2'
+#  - block: portfolio
+#    id: projects
+#    content:
+#      title: Projects
+#      filters:
+#        folders:
+#          - project
+#      default_button_index: 0
+#      buttons:
+#        - name: All
+#          tag: '*'
+#        - name: example
+#          tag: example
+#        - name: example1
+#          tag: example1
+#    design:
+#      view: grid      
   - block: portfolio
     id: researches
     content:
       title: Researches
       filters:
         folders:
-          - research
+          - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -134,14 +156,14 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Research
-          tag: research
-        - name: Research1
-          tag: research1
-        - name: Research2
-          tag: research2
-        - name: Research3
-          tag: research3
+        - name: Algorithms
+          tag: Algorithms
+        - name: Robotics
+          tag: Robotics
+        - name: AIoT
+          tag: AIoT
+        - name: Libs
+          tag: Libs
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -149,18 +171,19 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
+#  - block: collection
+#    id: featured
+#    content:
+#      title: Featured Publications
+#      filters:
+#        folders:
+#          - publication
+#        featured_only: true
+#    design:
+#      columns: '2'
+#      view: card
   - block: collection
     id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
     content:
       title: Recent Publications
       text: |-
@@ -173,7 +196,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: compact
 #  - block: collection
 #    id: talks
 #    content:
