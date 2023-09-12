@@ -216,8 +216,8 @@ sections:
       user_groups:
         - Research team members
         - Alumni
-#      sort_by: Params.last_name
-#      sort_ascending: true
+      sort_by: Params.role_rank
+      sort_ascending: true
     design:
       # Show user's social networking links? (true/false)
       show_social: false
