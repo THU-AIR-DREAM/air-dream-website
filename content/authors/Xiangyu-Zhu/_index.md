@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Research Staff
+role_rank: 1
 
 # Organizations/Affiliations
 organizations:

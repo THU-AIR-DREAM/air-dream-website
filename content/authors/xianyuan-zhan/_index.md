@@ -11,6 +11,7 @@ superuser: true
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Faculty Member
+role_rank: 0
 
 # Organizations/Affiliations
 organizations:

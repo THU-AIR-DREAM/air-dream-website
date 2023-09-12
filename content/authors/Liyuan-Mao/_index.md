@@ -17,6 +17,7 @@ superuser: false
 
 # Role/position/tagline
 role: Research Intern
+role_rank: 3
 
 # Organizations/Affiliations to show in About widget
 organizations:

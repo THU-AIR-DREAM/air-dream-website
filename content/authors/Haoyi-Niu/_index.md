@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position (e.g., Faculty Member, Research Staff, PhD Student, Research Intern)
 role: Research Intern
+role_rank: 3
 
 # Organizations/Affiliations
 organizations:
