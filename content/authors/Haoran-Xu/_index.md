@@ -69,3 +69,6 @@ highlight_name: false
 user_groups:
 - Alumni
 ---
+
+Write your self-introduction here.
+{style="text-align: justify;"}
