@@ -19,21 +19,22 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Tianying Ji is a Ph.D. student at the Tsinghua University. She is broadly interested in reinforcement learning and optimization theory, especially model-based reinforcement learning and offline reinforcement learning.
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Model-based reinforcement learning
+- Offline reinforcement learning
+- Real-world robot manipulation and locomotion
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: B.E. in Computer Science and Technology
+    institution: Tsinghua University
+    year: 2020
+  - course: Ph.D. student in Computer Science and Technology
+    institution: Tsinghua University
+    year: 2020-till now
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -42,16 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'jity20@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: https://twitter.com/jtinyng1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?user=S_Jq-EwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/jity16
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,3 +71,7 @@ user_groups:
 - Researchers
 - Research team members
 ---
+
+[//]: # (Write your self-introduction here.)
+
+[//]: # ({style="text-align: justify;"})

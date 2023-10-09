@@ -15,25 +15,23 @@ role_rank: 3
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Beijing University of Posts and Telecommunications
+  url: "https://www.bupt.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Ziteng He is an undergraduate student from Beijing university of Posts and Telecommunications, and also a research intern at Institute for AI Industry Research (AIR), Tsinghua University, advised by Prof. Xianyuan Zhan. His current work covers Reinforcement Learning and Green IDC.
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Reinforcement Learning
+- Green Internet Data Center
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: BEng in Communication Engineering
+    institution: Beijing University of Posts and Telecommunications
+    year: 2020
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -59,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ziteng_he@bupt.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -70,3 +68,7 @@ user_groups:
 - Researchers
 - Research team members
 ---
+
+[//]: # (Write your self-introduction here.)
+
+[//]: # ({style="text-align: justify;"})

@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: PhD Student
-role_rank: 3
+role_rank: 2
 
 # Organizations/Affiliations
 organizations:
@@ -70,3 +70,6 @@ user_groups:
 - Researchers
 - Research team members
 ---
+
+Write your self-introduction here.
+{style="text-align: justify;"}
