@@ -10,7 +10,8 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Intern
+# affiliation for alumni.
+role: PhD student at McGill University
 role_rank: 3
 
 # Organizations/Affiliations
@@ -19,7 +20,7 @@ organizations:
   url: "https://www.mcgill.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Li Jiang is the first-year Ph.D. student at the Desautels Faculty of Management, McGill University and Mila, Canada, under the guidance of Prof. Yichuan Ding and Prof. Xue Liu. Previously, He graduated from Tsinghua University, working with Prof. Xianyuan Zhan. He is passionate about building intelligent agents for real-world applications.
+bio: 
 
 # List each interest with a dash
 interests:
@@ -70,6 +71,6 @@ user_groups:
 - Alumni
 ---
 
-[//]: # (Write your self-introduction here.)
+Li Jiang is the first-year Ph.D. student at the Desautels Faculty of Management, McGill University and Mila, Canada, under the guidance of Prof. Yichuan Ding and Prof. Xue Liu. Previously, He graduated from Tsinghua University, working with Prof. Xianyuan Zhan. He is passionate about building intelligent agents for real-world applications.
 
-[//]: # ({style="text-align: justify;"})
+{style="text-align: justify;"}

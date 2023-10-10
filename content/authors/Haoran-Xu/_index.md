@@ -10,7 +10,8 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Intern
+# affiliation for alumni.
+role: PhD student at UT Austin, USA
 role_rank: 3
 
 # Organizations/Affiliations

@@ -70,12 +70,16 @@ sections:
       title: News
       text: |-
         
-        **Here are the latest news:**
+        - **Sep. 2023**: We have released [“OpenChat: Advancing Open-source Language Models with Mixed-Quality Data”](./publication/wang-2023-openchat/), which uses ideas from offline RL to fine-tune open-source large language models! Project page available at https://github.com/imoneoi/openchat.
         
-        - news 1  
+        - **Sep. 2023**: Our two recent papers [“Look Beneath the Surface: Exploiting Fundamental Symmetry for Sample-Efficient Offline RL”](./publication/cheng-2023-look/) and [“Offline Multi-Agent Reinforcement Learning with Implicit Global-to-Local Value Regularization”](./publication/wang-2023-offline/) have been accepted in NeurIPS 2023!
         
-        - news 2
+        - **Jun. 2023**: Our recent paper [“Look Beneath the Surface: Exploiting Fundamental Symmetry for Sample-Efficient Offline RL”](./publication/cheng-2023-look/) and [“Query-Policy Misalignment in Preference-Based Reinforcement Learning”](./publication/hu-2023-querypolicy/) have been accepted in ICML 2023 Frontiers4LCD and MFPL Workshops.
         
+        - **Jan. 2023**: Our three recent papers [“Offline RL with No OOD Actions: In-Sample Learning via Implicit Value Regularization”](./publication/xu-2023-sparse/), [“When Data Geometry Meets Deep Function: Generalizing Offline Reinforcement Learning”](./publication/li-2023-when/) and [“Mind the Gap: Offline Policy Optimization for Imperfect Rewards”](./publication/li-2023-mind/) have been accepted in ICLR 2023!
+        
+        - **Jan. 2023**: Our paper [“Offline Multi-Agent Reinforcement Learning with Coupled Value Factorization”](./publication/wang-2023-offline1/) has been accepted in AAMAS 2023.
+
         **We are hiring:** we are looking for postdocs and student interns. If you are interested in the research directions of data-driven decision-making, please feel free to contact us!
     design:
       columns: '2'
@@ -190,13 +194,19 @@ sections:
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
+      count: 6
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
+        publication_type: '1'
+      archive:
+        enable: true
+        text: See all publication
+        link: publication/
     design:
       columns: '2'
-      view: compact
+      view: citation
 #  - block: collection
 #    id: talks
 #    content:
