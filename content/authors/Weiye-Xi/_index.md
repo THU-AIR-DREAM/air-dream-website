@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Intern
+role: PhD student at Geogia Tech, USA
 role_rank: 3
 
 # Organizations/Affiliations

@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Intern
+role: AI Algorithm engineer at Baidu
 role_rank: 3
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Baidu
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
