@@ -20,5 +20,13 @@ featured: false
 publication: ""
 
 url_pdf: "https://arxiv.org/abs/2309.12716"
+
+projects: 
+  - Algorithms  
+  - Robotics
+
+tags:
+  - Algorithms
+  - Robotics
 ---
 

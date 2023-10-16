@@ -24,17 +24,18 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Offline RL
+- Imitation learning
+- Hybrid RL
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: M.S. in Computer Science and Technology
+    institution: Xidian University
+    year: 2021
+  - course: B.E. in Computer Science and Technolog
+    institution: Xidian University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -43,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:haoran.xu@utexas.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: https://twitter.com/ryanxhr
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?user=iX8AJI0AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/ryanxhr
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,5 +72,9 @@ user_groups:
 - Alumni
 ---
 
-Write your self-introduction here.
+Hello! I am Haoran Xu (徐浩然 in Chinese). I am a first-year Ph.D. student at UT Austin, advised by [Prof. Amy Zhang](https://amyzhang.github.io/). Previously, I interned at [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and worked at [JD.com](https://corporate.jd.com/) on data-driven Reinforcement Learning and its applications. I obtained Bachelor & Master's degree from [Xidian University](https://en.xidian.edu.cn/), advised by [Xianyuan Zhan](http://zhanxianyuan.xyz/) and [Zheng Yu](http://urban-computing.com/yuzheng).
+
+My ultimate research dream is to maximally leveraging prior information to facilitate the development of machine autonomy. Towards this goal, my work primarily focused on offline RL, imitation learning, hybrid RL, and RLHF. I am open to collaboration, feel free to reach me out!
+
+Find more about me at https://ryanxhr.github.io/.
 {style="text-align: justify;"}

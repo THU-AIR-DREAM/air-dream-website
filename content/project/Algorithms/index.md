@@ -3,7 +3,7 @@ title: Data-Driven Decision-Making Algorithms
 summary:  Developing high-performance, robust, generalizable, and deployable data-driven decision-making algorithms for real-world problems.
 tags:
   - Algorithms
-date: '2023-04-27T00:00:00Z'
+date: '2023-10-04T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

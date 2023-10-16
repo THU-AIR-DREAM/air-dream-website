@@ -3,13 +3,13 @@ title: Data-Driven Methods for Sustainable Industrial and AIoT Systems
 summary: Using advanced data-driven AI methods to optimize real-world complex industrial and AIoT systems. 
 tags:
   - AIoT
-date: '2021-05-27T00:00:00Z'
+date: '2023-10-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+#  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 # links:

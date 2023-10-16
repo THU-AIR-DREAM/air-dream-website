@@ -20,5 +20,11 @@ featured: false
 publication: "ICML 2023 Workshop The Many Facets of Preference-Based Learning."
 
 url_pdf: "https://arxiv.org/abs/2305.17400"
+
+projects: 
+  - Algorithms  
+
+tags:
+  - Algorithms
 ---
 
