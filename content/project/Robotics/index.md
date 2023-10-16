@@ -3,13 +3,13 @@ title: Learning-based Methods for Robotics & Autonomous Driving
 summary: Learning robust and generalizable control / decision-making policies for robotics and autonomous driving using real-world data.
 tags:
   - Robotics
-date: '2022-04-27T00:00:00Z'
+date: '2023-10-03T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+#  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 # links:

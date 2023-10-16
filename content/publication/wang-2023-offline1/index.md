@@ -16,5 +16,11 @@ featured: false
 publication: "*International Conference on Autonomous Agents and Multiagent Systems 2023 (AAMAS 2023)*"
 
 url_pdf: "https://arxiv.org/pdf/2306.08900.pdf"
+
+projects: 
+  - Algorithms  
+
+tags:
+  - Algorithms 
 ---
 

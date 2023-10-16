@@ -16,5 +16,11 @@ featured: false
 publication: "*Advances in Neural Information Processing Systems*"
 
 url_pdf: "https://arxiv.org/abs/2306.04220"
+
+projects: 
+  - Algorithms  
+
+tags:
+  - Algorithms 
 ---
 

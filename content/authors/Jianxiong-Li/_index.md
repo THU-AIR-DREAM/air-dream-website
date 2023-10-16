@@ -15,25 +15,25 @@ role_rank: 2
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Institute for AI Industry Research (AIR), Tsinghua University
+  url: "https://air.tsinghua.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Decision making and optimization
+- Offline reinforcement learning
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: B.E. in Mechanical Engineering
+    institution: Xi’an Jiaotong University
+    year: 2021
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -42,16 +42,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: 'mailto:li-jx21@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?user=TRLwpiUAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/Facebear-ljx
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Jianxiong-Li-13
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,5 +74,9 @@ user_groups:
 - Research team members
 ---
 
-Write your self-introduction here.
+Hi! I am currently a third-year PhD student at [Institude for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/) and [School of Vehicle and Mobility, Tsinghua University](http://www.svm.tsinghua.edu.cn/index.html), advised by [Prof. Xianyuan Zhan](http://zhanxianyuan.xyz/) and [Prof. Ya-Qin Zhang](https://air.tsinghua.edu.cn/en/info/1046/1188.htm). I got my bachelor’s degree in June 2021 from the School of Mechanical Engineering, [Xi’an Jiaotong University](http://en.xjtu.edu.cn/).
+
+My research interest broadly lies in advanced data-driven learning theory and algorithms on decision-making and optimization, such as **offline reinforcement learning (RL)**, as well as their promising applications on **autonomous driving** and **robotics**.
+
+Find more about me at https://facebear-ljx.github.io/.
 {style="text-align: justify;"}

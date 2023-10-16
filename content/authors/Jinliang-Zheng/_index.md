@@ -23,17 +23,17 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+#- Interest 1
+#- Interest 2
 
 education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+#  courses:
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -71,5 +71,5 @@ user_groups:
 - Research team members
 ---
 
-Write your self-introduction here.
+[//]: # (Write your self-introduction here.)
 {style="text-align: justify;"}

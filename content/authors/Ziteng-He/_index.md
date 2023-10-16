@@ -19,7 +19,7 @@ organizations:
   url: "https://www.bupt.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ziteng He is an undergraduate student from Beijing university of Posts and Telecommunications, and also a research intern at Institute for AI Industry Research (AIR), Tsinghua University, advised by Prof. Xianyuan Zhan. His current work covers Reinforcement Learning and Green IDC.
+bio: 
 
 # List each interest with a dash
 interests:
@@ -41,15 +41,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/surge-moteors
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +69,6 @@ user_groups:
 - Research team members
 ---
 
-[//]: # (Write your self-introduction here.)
+Ziteng He is an undergraduate student from Beijing university of Posts and Telecommunications, and also a research intern at Institute for AI Industry Research (AIR), Tsinghua University, advised by Prof. Xianyuan Zhan. His current work covers Reinforcement Learning and Green IDC.
 
-[//]: # ({style="text-align: justify;"})
+{style="text-align: justify;"}

@@ -15,25 +15,25 @@ role_rank: 1
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Institute for AI Industry Research (AIR), Tsinghua University
+  url: "https://air.tsinghua.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Offline deep reinforcement learning
+- Complex system optimization
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: M.S. in Computational Mathematics
+    institution: Tianjin University
+    year: 2019
+  - course: B.E. in Mathematics and Applied Mathematics
+    institution: Tianjin University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -42,16 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: 'mailto:zhuxiangyu@air.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?hl=zh-CN&user=OanBHCwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/zackxiangyu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

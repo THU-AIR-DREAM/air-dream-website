@@ -20,5 +20,11 @@ featured: false
 publication: ""
 
 url_pdf: "https://arxiv.org/abs/2306.02865"
+
+projects: 
+  - Algorithms  
+
+tags:
+  - Algorithms
 ---
 
