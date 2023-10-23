@@ -15,25 +15,25 @@ role_rank: 3
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: "Institute for AI Industry Research (AIR), Tsinghua University"
+  url: "https://air.tsinghua.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-#- Interest 1
-#- Interest 2
+- Offline RL
+- Offline imitation learning
 
 education:
-#  courses:
-#  - course: Title course 1
-#    institution: Name of Institution
-#    year: 2012
-#  - course: Title course 1
-#    institution: Name of Institution
-#    year: 2012
+  courses:
+  - course: Ph.D in Automation
+    institution: Tsinghua University
+    year: 2024
+  - course: B.E. in Automation
+    institution: Beihang University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:zhangwj18@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
