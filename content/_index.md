@@ -10,17 +10,25 @@ sections:
     content:
 #      title: DREAM
       image:
-        filename: hero-robot-head-xs.png
+        filename: hero-robot-head-s.png
       text: |- 
 
         <!-- DREAM团队的研究方向是探索如何在决策制定中应用强大的人工智能方法。我们致力于提高AI技术的应用能力，使其能够更好地服务于现实生活和产业界的决策需求。-->
 
-        <font size=3>
+        <font size=6>
         Welcome to 
         <b>
         AIR-DREAM (Decision-making Research for Empowered AI Methods) Lab
-        </b>
-        website! AIR-DREAM Lab is a research group at <a href="https://air.tsinghua.edu.cn/en/">Institute for AI Industry Research (AIR)</a>, Tsinghua University. Our research focus is to develop advanced learning-based data-driven decision-making theories and practical technologies that are robust, generalizable, and deployable to tackle real-world challenges. We work on fundamental learning algorithms, robust robotic control methods, optimization technologies for real-world AIoT systems, and data-driven decision-making tools & libraries.
+        </b> 
+        </font>
+        <font size=4>
+        Our research focus is to develop advanced learning-based data-driven decision-making theories and practical technologies that are robust, generalizable, and deployable to tackle real-world challenges. We work on fundamental learning algorithms, robust robotic control methods, optimization technologies for real-world AIoT systems, and data-driven decision-making tools & libraries.
+        </font>
+        
+        <font size=3>
+        <p style="color: #CEECF5;">
+        AIR-DREAM Lab is a research group at <a href="https://air.tsinghua.edu.cn/en/">Institute for AI Industry Research (AIR)</a>, Tsinghua University. 
+        </p>
         </font>
 
         <!--Custom spacing-->
@@ -78,7 +86,7 @@ sections:
         
         - **Jan. 2023**: Our three recent papers [“Offline RL with No OOD Actions: In-Sample Learning via Implicit Value Regularization”](./publication/xu-2023-sparse/), [“When Data Geometry Meets Deep Function: Generalizing Offline Reinforcement Learning”](./publication/li-2023-when/) and [“Mind the Gap: Offline Policy Optimization for Imperfect Rewards”](./publication/li-2023-mind/) have been accepted in ICLR 2023!
 
-        **We are hiring:** we are looking for postdocs and student interns. If you are interested in the research directions of data-driven decision-making, please feel free to contact us!
+        :fire: **We are hiring:** we are looking for postdocs and student interns. If you are interested in the research directions of data-driven decision-making, please feel free to contact us!
     design:
       columns: '2'
       background:
@@ -271,7 +279,9 @@ sections:
       text: |-
         {{< gallery album="group" >}}
     design:
-      columns: '2'
+      columns: '1'
+#      spacing:
+#        padding: ["20px", "0", "20px", "0"]
   - block: contact
     id: contact
     content:
