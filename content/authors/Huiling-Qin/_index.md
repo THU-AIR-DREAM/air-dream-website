@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Intern
+role: Faculty at Beijing Normal University, Zhuhai
 role_rank: 3
 
 # Organizations/Affiliations
