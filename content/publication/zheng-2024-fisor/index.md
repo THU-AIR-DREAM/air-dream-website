@@ -5,7 +5,7 @@ date: 2024-01-16
 
 publishDate: 2024-01-18T08:07:44.015394Z
 
-authors: ["Yinan Zheng", "Jiangxiong Li", "Dongjie Yu", "Yujie Yang", "Shengbo Eben Li", "Xianyuan Zhan", "Jingjing Liu"]
+authors: ["Yinan Zheng", "Jianxiong Li", "Dongjie Yu", "Yujie Yang", "Shengbo Eben Li", "Xianyuan Zhan", "Jingjing Liu"]
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,10 +25,18 @@ url_code: "https://github.com/ZhengYinan-AIR/FISOR"
 
 url_project: "https://zhengyinan-air.github.io/FISOR/"
 
+# Custom links (uncomment lines below)
+links:
+- name: Website
+  url: https://zhengyinan-air.github.io/FISOR/
+
 projects: 
   - Algorithms  
 
 tags:
   - Algorithms
+
+# Optional external URL for project (replaces project detail page).
+external_link: "https://zhengyinan-air.github.io/FISOR/"
 ---
 
