@@ -75,7 +75,7 @@ user_groups:
 - Research team members
 ---
 
-I'm a 1st-year PhD student at [Institude for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/) and School of Vehicle and Mobility, Tsinghua University, advised by [Prof. Xianyuan Zhan](http://zhanxianyuan.xyz/), [Prof. Shengbo Eben Li](https://scholar.google.com/citations?user=Dxiw1K8AAAAJ&hl=zh-CN&oi=ao) and  [Prof. Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm). I got my bachelor’s degree in automation from the School of Automation, China University of Geosciences in 2023, working closely with [Prof. Chao Zhai](https://scholar.google.com/citations?user=LDH5iTkAAAAJ&hl=zh-CN&oi=ao) and [Prof. Chuanke Zhang](https://grzy.cug.edu.cn/zhangchuanke/zh_CN/index.htm).
+I'm a 1st-year PhD student at [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/) and School of Vehicle and Mobility, Tsinghua University, advised by [Prof. Xianyuan Zhan](http://zhanxianyuan.xyz/), [Prof. Shengbo Eben Li](https://scholar.google.com/citations?user=Dxiw1K8AAAAJ&hl=zh-CN&oi=ao) and  [Prof. Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm). I got my bachelor’s degree in automation from the School of Automation, China University of Geosciences in 2023, working closely with [Prof. Chao Zhai](https://scholar.google.com/citations?user=LDH5iTkAAAAJ&hl=zh-CN&oi=ao) and [Prof. Chuanke Zhang](https://grzy.cug.edu.cn/zhangchuanke/zh_CN/index.htm).
 
 My research interest lies in the safe and high-performance deployment of learning-based methods for real-world decision-making applications.
 {style="text-align: justify;"}
