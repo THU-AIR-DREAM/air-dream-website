@@ -23,7 +23,7 @@ url_pdf: "https://openreview.net/forum?id=j5JvZCaDM0"
 
 url_code: "https://github.com/ZhengYinan-AIR/FISOR"
 
-url_project: "https://zhengyinan-air.github.io/FISOR/"
+# url_project: "https://zhengyinan-air.github.io/FISOR/"
 
 # Custom links (uncomment lines below)
 links:
@@ -37,6 +37,6 @@ tags:
   - Algorithms
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://zhengyinan-air.github.io/FISOR/"
+# external_link: "https://zhengyinan-air.github.io/FISOR/"
 ---
 

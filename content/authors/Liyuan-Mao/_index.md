@@ -2,7 +2,7 @@
 #draft: true
 
 # Display name
-title: Liyuan Mao
+title: "Liyuan Mao"
 
 # Full name (for SEO)
 authors:
