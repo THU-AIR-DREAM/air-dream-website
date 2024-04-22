@@ -78,6 +78,8 @@ sections:
       title: News
       text: |-
         
+        - **Jan. 2024**: Our four recent papers [“Revealing the Mystery of Distribution Correction Estimation via Orthogonal-gradient Update”](./publication/mao-2024-odice/), [“Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model”](./publication/zheng-2024-fisor/), [“Query-Policy Misalignment in Preference-Based Reinforcement Learning”](./publication/hu-2023-querypolicy/), and [“OpenChat: Advancing Open-source Language Models with Mixed-Quality Data”](./publication/wang-2023-openchat/) have been accepted in ICLR 2024!
+
         - **Oct. 2023**: We have released [“Data-Driven Control Library (D2C)”](./project/libs/), which provides an easy-to-use and comprehensive library for real-world data-driven control & decision-making problems! Project page available at https://github.com/AIR-DI/D2C. 
 
         - **Sep. 2023**: We have released [“OpenChat: Advancing Open-source Language Models with Mixed-Quality Data”](./publication/wang-2023-openchat/), which uses ideas from offline RL to fine-tune open-source large language models! Project page available at https://github.com/imoneoi/openchat.

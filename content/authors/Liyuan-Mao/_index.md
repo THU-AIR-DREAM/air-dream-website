@@ -2,11 +2,11 @@
 #draft: true
 
 # Display name
-title: Liyuan Mao
+title: "Liyuan Mao"
 
 # Full name (for SEO)
-first_name: Liyuan
-last_name: Mao
+authors:
+- "liyuan-mao"
 
 # Status emoji
 status:
