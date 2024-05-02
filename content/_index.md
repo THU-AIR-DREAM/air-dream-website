@@ -77,7 +77,11 @@ sections:
     content:
       title: News
       text: |-
-        
+
+        - **May. 2024**: Our four recent papers [“DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning”](http://zhanxianyuan.xyz/publication/2024-decisionNCE), [“OMPO: A Unified Framework for Reinforcement Learning under Policy and Dynamics Shifts”](http://zhanxianyuan.xyz/publication/2024-OMPO), [“Offline-Boosted Actor-Critic: Adaptively Blending Optimal Historical Behaviors in Deep Off-Policy RL”](http://zhanxianyuan.xyz/publication/2024-OBAC), [“Seizing Serendipity: Exploiting the Value of Past Success in Off-Policy Actor-Critic”](http://zhanxianyuan.xyz/publication/2024-BEE) have been accepted in ICML 2024!        
+
+        - **Apr. 2024**: Our recent survey paper [“A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents”](http://zhanxianyuan.xyz/publication/2024-cross_domain) has been accepted in IJCAI 2024.
+
         - **Jan. 2024**: Our four recent papers [“Revealing the Mystery of Distribution Correction Estimation via Orthogonal-gradient Update”](./publication/mao-2024-odice/), [“Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model”](./publication/zheng-2024-fisor/), [“Query-Policy Misalignment in Preference-Based Reinforcement Learning”](./publication/hu-2023-querypolicy/), and [“OpenChat: Advancing Open-source Language Models with Mixed-Quality Data”](./publication/wang-2023-openchat/) have been accepted in ICLR 2024!
 
         - **Oct. 2023**: We have released [“Data-Driven Control Library (D2C)”](./project/libs/), which provides an easy-to-use and comprehensive library for real-world data-driven control & decision-making problems! Project page available at https://github.com/AIR-DI/D2C. 
