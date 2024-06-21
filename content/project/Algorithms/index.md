@@ -1,0 +1,42 @@
+---
+title: Data-Driven Decision-Making Algorithms
+summary:  Developing high-performance, robust, generalizable, and deployable data-driven decision-making algorithms for real-world problems.
+tags:
+  - Algorithms
+date: '2023-10-04T00:00:00Z'
+
+# Optional external URL for project (replaces project detail page).
+external_link: ''
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/georgecushen
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides: example
+---
+
+A main research direction for the AIR-DREAM Lab is to develop high-performance, robust, generalizable, and real-world deployable data-driven decision-making algorithms. We are specifically interested in offline policy learning methods, such as offline reinforcement learning (RL), offline imitaiton learning (IL), and offline planning, which enables a simulation-free and low-cost solution to address many real-world problems. 
+
+Our current research focus include:
+- Sample-efficient / high-generalization offline RL / IL / planning algorithms
+- Foundation models for decision-making
+- Safe offline RL algorithms
+- Hybrid RL that combines offline and online policy learning
+- Offline policy learning under imperfect reward
+- Feedback-efficient RLHF
+

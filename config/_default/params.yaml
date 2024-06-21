@@ -7,15 +7,19 @@
 appearance:
   mode: system
   color: emerald
+#  theme_day: Ocean
+#  theme_night: Minimal
+#  font: Minimal
+#  font_size: m
 
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: ResearchOrganization
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'AIR-DREAM Lab'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,16 +39,16 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: ""
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} - AIR-DREAM Lab.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -55,6 +59,6 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false

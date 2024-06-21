@@ -1,0 +1,41 @@
+---
+title: Learning-based Methods for Robotics & Autonomous Driving
+summary: Learning robust and generalizable control / decision-making policies for robotics and autonomous driving using real-world data.
+tags:
+  - Robotics
+date: '2023-10-03T00:00:00Z'
+
+# Optional external URL for project (replaces project detail page).
+external_link: ''
+
+image:
+#  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/georgecushen
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides: example
+---
+
+We focus on developing robotic control and autonomous driving policy learning methods that could directly learn from real-world data, bypassing or alleviating sim-to-real gap, while achieving robust and generalizable performance. 
+
+Our current research focus include:
+- Offline RL / IL / planning methods for autonomous driving and robotic control
+- Offline policy optimization for safety-critical scenarios
+- Foundation models for robotic control
+- Sim-to-real adaptation
+
+
