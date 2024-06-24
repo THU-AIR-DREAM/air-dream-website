@@ -6,11 +6,11 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
-#  theme_day: Ocean
-#  theme_night: Minimal
-#  font: Minimal
-#  font_size: m
+#  color: emerald
+  theme_day: Ocean
+  theme_night: Minimal
+  font: Minimal
+  font_size: m
 
 # SEO
 marketing:
@@ -33,13 +33,17 @@ marketing:
 # Site header
 header:
   navbar:
+    block: navbar
     enable: true
-    blox: "navbar"
+    align: r
+#    blox: "navbar"
+    show_logo: true
     fixed_to_top: true
+    show_day_night: true
     show_search: true
     show_theme_chooser: true
-    logo:
-      text: ""
+#    logo:
+#      text: ""
 
 # Site footer
 footer:
@@ -58,7 +62,55 @@ locale:
 
 # Site features
 features:
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
   math:
     enable: true
   privacy_pack:
     enable: false
+  repository:
+    url: 'https://github.com/<username>/<repository>'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: ''
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true

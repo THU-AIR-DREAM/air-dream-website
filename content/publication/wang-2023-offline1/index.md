@@ -7,7 +7,7 @@ publishDate: 2023-10-09T08:07:44.013392Z
 
 authors: ["Xiangsen Wang", "Xianyuan Zhan"]
 
-publication_types: ["1"]
+publication_types: ["paper-conference"]
 
 abstract: "Offline reinforcement learning (RL) that learns policies from offline datasets without environment interaction has received considerable attention in recent years. Compared with the rich literature in the single-agent case, offline multi-agent RL is still a relatively underexplored area. Most existing methods directly apply offline RL ingredients in the multi-agent setting without fully leveraging the decomposable problem structure, leading to less satisfactory performance in complex tasks. We present OMAC, a new Offline Multi-Agent RL algorithm with Coupled value factorization. OMAC adopts a coupled value factorization scheme that decomposes the global value function into local and shared components, and also maintains the credit assignment consistency between the state-value and action-value functions. Moreover, OMAC performs in-sample learning on the decomposed local state-value functions, which implicitly conducts max-Q operation at the local level while avoiding distributional shift caused by evaluating out-of-distribution actions. Based on the comprehensive evaluations of the offline multi-agent StarCraft II micro-management tasks, we demonstrate the superior performance of OMAC over the state-of-the-art offline multi-agent RL methods."
 

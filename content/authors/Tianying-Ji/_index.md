@@ -44,7 +44,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'jity20@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: x-twitter
   icon_pack: fab
   link: https://twitter.com/jtinyng1
 - icon: google-scholar
