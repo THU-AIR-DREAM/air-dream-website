@@ -9,8 +9,8 @@ authors:
 - "liyuan-mao"
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: false
@@ -48,9 +48,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: 
+  - icon: x-twitter
+    icon_pack: fab
+    link: https://twitter.com/RichardMao93817
 #    label: Follow me on Twitter
 #    display:
 #      header: false
@@ -74,7 +74,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 user_groups:
   - Researchers

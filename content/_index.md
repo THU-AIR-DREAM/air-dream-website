@@ -37,14 +37,24 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        # gradient_end: '#1976d2'
-        # gradient_start: '#004ba0'
-#        gradient_end: '#A9D0F5'
-#        gradient_start: '#01A9DB'
-        gradient_start: '#5882FA'
-        gradient_end: '#2E64FE'
-        gradient_angle: 180
-        text_color_light: true
+#        gradient_start: '#5882FA'
+#        gradient_end: '#2E64FE'
+#        gradient_angle: 180
+#        text_color_light: true
+          image:
+              # Name of image in `assets/media/`.
+              filename: air-dream.jpg
+              # Apply image filters?
+              filters:
+                # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+                brightness: 1
+              # Image fit. Options are `cover` (default), `contain`, or `actual` size.
+              size: cover
+              # Image focal point. Options include `left`, `center` (default), or `right`.
+              position: center
+              # Use a fun parallax-like fixed background effect on desktop? true/false
+              parallax: true
+          text_color_light: false
 #  - block: markdown
 #    content:
 #      title: DREAM
@@ -78,9 +88,9 @@ sections:
       title: News
       text: |-
 
-        - **May. 2024**: Our four recent papers [“DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning”](http://zhanxianyuan.xyz/publication/2024-decisionNCE), [“OMPO: A Unified Framework for Reinforcement Learning under Policy and Dynamics Shifts”](http://zhanxianyuan.xyz/publication/2024-OMPO), [“Offline-Boosted Actor-Critic: Adaptively Blending Optimal Historical Behaviors in Deep Off-Policy RL”](http://zhanxianyuan.xyz/publication/2024-OBAC), [“Seizing Serendipity: Exploiting the Value of Past Success in Off-Policy Actor-Critic”](http://zhanxianyuan.xyz/publication/2024-BEE) have been accepted in ICML 2024!        
+        - **May. 2024**: Our four recent papers [“DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning”](./publication/li-2024-decisionnce), [“OMPO: A Unified Framework for Reinforcement Learning under Policy and Dynamics Shifts”](./publication/luo-2024-ompo), [“Offline-Boosted Actor-Critic: Adaptively Blending Optimal Historical Behaviors in Deep Off-Policy RL”](./publication/luo-2024-offlineboosted), [“Seizing Serendipity: Exploiting the Value of Past Success in Off-Policy Actor-Critic”](./publication/ji-2023-seizing) have been accepted in ICML 2024!        
 
-        - **Apr. 2024**: Our recent survey paper [“A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents”](http://zhanxianyuan.xyz/publication/2024-cross_domain) has been accepted in IJCAI 2024.
+        - **Apr. 2024**: Our recent survey paper [“A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents”](./publication/niu-2024-comprehensive) has been accepted in IJCAI 2024.
 
         - **Jan. 2024**: Our four recent papers [“Revealing the Mystery of Distribution Correction Estimation via Orthogonal-gradient Update”](./publication/mao-2024-odice/), [“Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model”](./publication/zheng-2024-fisor/), [“Query-Policy Misalignment in Preference-Based Reinforcement Learning”](./publication/hu-2023-querypolicy/), and [“OpenChat: Advancing Open-source Language Models with Mixed-Quality Data”](./publication/wang-2023-openchat/) have been accepted in ICLR 2024!
 
@@ -95,22 +105,22 @@ sections:
         :fire: **We are hiring:** we are looking for postdocs and student interns. If you are interested in the research directions of data-driven decision-making, please feel free to contact us!
     design:
       columns: '2'
-      background:
-        image:
-          # Name of image in `assets/media/`.
-          filename: air-dream.jpg
-          # Apply image filters?
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 1
-          # Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: cover
-          # Image focal point. Options include `left`, `center` (default), or `right`.
-          position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: true
-          # Text color (true=light, false=dark, or remove for the dynamic theme color).
-        text_color_light: false
+#      background:
+#        image:
+#          # Name of image in `assets/media/`.
+#          filename: air-dream.jpg
+#          # Apply image filters?
+#          filters:
+#            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+#            brightness: 1
+#          # Image fit. Options are `cover` (default), `contain`, or `actual` size.
+#          size: cover
+#          # Image focal point. Options include `left`, `center` (default), or `right`.
+#          position: center
+#          # Use a fun parallax-like fixed background effect on desktop? true/false
+#          parallax: true
+#          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+#        text_color_light: false
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ["25px", "0", "25px", "0"]
@@ -214,7 +224,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
-        publication_type: '1'
+        publication_type: 'paper-conference'
       archive:
         enable: true
         text: See all publications

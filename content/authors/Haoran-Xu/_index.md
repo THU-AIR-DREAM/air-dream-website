@@ -45,7 +45,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:haoran.xu@utexas.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: x-twitter
   icon_pack: fab
   link: https://twitter.com/ryanxhr
 - icon: google-scholar

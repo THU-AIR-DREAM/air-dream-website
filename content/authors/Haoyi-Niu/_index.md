@@ -44,7 +44,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 't6.da.thu@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: x-twitter
   icon_pack: fab
   link: https://twitter.com/t641769919
 - icon: google-scholar

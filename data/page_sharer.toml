@@ -6,7 +6,7 @@
   url = "https://twitter.com/intent/tweet?url={url}&text={title}"
   title = "Twitter"
   icon_pack = "fab"
-  icon = "twitter"
+  icon = "x-twitter"
   enable = true
 
 [[buttons]]
@@ -23,7 +23,7 @@
   title = "Email"
   icon_pack = "fas"
   icon = "envelope"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "linkedin"
@@ -55,7 +55,7 @@
   title = "Reddit"
   icon_pack = "fab"
   icon = "reddit-alien"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "pinterest"
