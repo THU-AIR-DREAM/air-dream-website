@@ -55,6 +55,9 @@ sections:
               # Use a fun parallax-like fixed background effect on desktop? true/false
               parallax: true
           text_color_light: false
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["80px", "0", "60px", "0"]
 #  - block: markdown
 #    content:
 #      title: DREAM
@@ -104,7 +107,7 @@ sections:
 
         :fire: **We are hiring:** we are looking for postdocs and student interns. If you are interested in the research directions of data-driven decision-making, please feel free to contact us!
     design:
-      columns: '2'
+      columns: '1'
 #      background:
 #        image:
 #          # Name of image in `assets/media/`.
@@ -123,7 +126,7 @@ sections:
 #        text_color_light: false
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["25px", "0", "25px", "0"]
+        padding: ["30px", "80px", "30px", "80px"]
 #  - block: collection
 #    id: posts
 #    content:
