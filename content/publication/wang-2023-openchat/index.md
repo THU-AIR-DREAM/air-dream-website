@@ -17,10 +17,17 @@ abstract: "Nowadays, open-source large language models like LLaMA have emerged. 
 
 featured: false
 
-publication: "*In 12th International Conference on Learning Representations (ICLR 2024)*"
+publication: "*12th International Conference on Learning Representations (ICLR 2024)*"
 
 url_pdf: "https://openreview.net/forum?id=AOJyfhWYHf"
 
 url_code: "https://github.com/imoneoi/openchat"
+
+image:
+  placement: 1
+  caption: ""
+  focal_point: "Smart"
+  preview_only: false
+  alt_text:
 ---
 
