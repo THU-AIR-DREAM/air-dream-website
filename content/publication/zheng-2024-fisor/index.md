@@ -35,6 +35,13 @@ projects:
 
 tags:
   - Algorithms
+  
+image:
+  placement: 1
+  caption: ""
+  focal_point: "Smart"
+  preview_only: false
+  alt_text:
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://zhengyinan-air.github.io/FISOR/"
