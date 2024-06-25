@@ -26,7 +26,7 @@ sections:
         </font>
         
         <font size=3>
-        <p style="color: #CEECF5;">
+        <p style="color: #2E64FE;">
         AIR-DREAM Lab is a research group at <a href="https://air.tsinghua.edu.cn/en/">Institute for AI Industry Research (AIR)</a>, Tsinghua University. 
         </p>
         </font>
