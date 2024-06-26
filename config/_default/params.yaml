@@ -5,12 +5,9 @@
 
 # Appearance
 appearance:
-  mode: system
-#  color: emerald
-  theme_day: Ocean
-  theme_night: Minimal
-  font: Minimal
-  font_size: m
+  mode: light
+  # Options include blue, cyan, green, indigo, purple, red, rose, sky, teal, and zinc.
+  color: sky
 
 # SEO
 marketing:
@@ -18,7 +15,7 @@ marketing:
     site_type: ResearchOrganization
     local_business_type: ''
     org_name: 'AIR-DREAM Lab'
-    description: ''
+    description: 'Decision-making Research for Empowered AI Methods Lab.'
     twitter: ''
   analytics:
     google_analytics: 'G-NL9F8GHZ5L'
@@ -33,20 +30,25 @@ marketing:
 # Site header
 header:
   navbar:
-    block: navbar
     enable: true
-    align: r
-#    blox: "navbar"
-    show_logo: true
+    blox: "navbar"
+    align: center
+    logo:
+      # Logo text
+      text: "AIR-DREAM Lab"
+      # Logo filename in `assets/media/` folder
+      filename: "icon.png"
     fixed_to_top: true
-    show_day_night: true
     show_search: true
     show_theme_chooser: true
+    # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
+    highlight_active_link: true
 #    logo:
 #      text: ""
 
 # Site footer
 footer:
+  block: minimal
   copyright:
     notice: '© {year} - AIR-DREAM Lab.'
     license:
@@ -59,6 +61,7 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 features:
@@ -88,13 +91,6 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
   map:
     provider: ''
     api_key: ''

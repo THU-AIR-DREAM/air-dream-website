@@ -1,16 +1,20 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: ""
 date: 2022-10-24
 type: landing
+
+design:
+  # Default section spacing
+  spacing: "6rem"
 
 sections:
   - block: hero
     id: home
     content:
 #      title: DREAM
-      image:
-        filename: hero-robot-head-s.png
+#      image:
+#        filename: hero-robot-head-s.png
       text: |- 
 
         <!-- DREAM团队的研究方向是探索如何在决策制定中应用强大的人工智能方法。我们致力于提高AI技术的应用能力，使其能够更好地服务于现实生活和产业界的决策需求。-->
@@ -54,10 +58,11 @@ sections:
               position: center
               # Use a fun parallax-like fixed background effect on desktop? true/false
               parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: false
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["80px", "0", "60px", "0"]
+#      spacing:
+#        # Customize the section spacing. Order is top, right, bottom, left.
+#        padding: ["80px", "0", "60px", "0"]
 #  - block: markdown
 #    content:
 #      title: DREAM
@@ -107,7 +112,7 @@ sections:
 
         :fire: **We are hiring:** we are looking for postdocs and student interns. If you are interested in the research directions of data-driven decision-making, please feel free to contact us!
     design:
-      columns: '1'
+      columns: ''
 #      background:
 #        image:
 #          # Name of image in `assets/media/`.
@@ -124,9 +129,9 @@ sections:
 #          parallax: true
 #          # Text color (true=light, false=dark, or remove for the dynamic theme color).
 #        text_color_light: false
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["30px", "80px", "30px", "80px"]
+#      spacing:
+#        # Customize the section spacing. Order is top, right, bottom, left.
+#        padding: ["30px", "80px", "30px", "80px"]
 #  - block: collection
 #    id: posts
 #    content:
@@ -171,7 +176,7 @@ sections:
 #          tag: example1
 #    design:
 #      view: grid      
-  - block: portfolio
+  - block: collection
     id: researches
     content:
       title: Researches
@@ -179,30 +184,30 @@ sections:
         folders:
           - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
+#      default_button_index: 0
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Algorithms
-          tag: Algorithms
-        - name: Robotics
-          tag: Robotics
-        - name: AIoT
-          tag: AIoT
-        - name: Libs
-          tag: Libs
+#      buttons:
+#        - name: All
+#          tag: '*'
+#        - name: Algorithms
+#          tag: Algorithms
+#        - name: Robotics
+#          tag: Robotics
+#        - name: AIoT
+#          tag: AIoT
+#        - name: Libs
+#          tag: Libs
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+#      columns: '2'
       # The following content previews are available: list, compact, card, citation, showcase, masonry.
-      view: showcase
+      view: card
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: true
+#      flip_alt_rows: true
 #  - block: collection
 #    id: featured
 #    content:
@@ -233,7 +238,7 @@ sections:
         text: See all publications
         link: publication/
     design:
-      columns: '2'
+#      columns: ''
       view: citation
 #  - block: collection
 #    id: talks
@@ -245,26 +250,26 @@ sections:
 #    design:
 #      columns: '2'
 #      view: compact
-  - block: people
-    id: people
-    content:
-      title: Meet the Team
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-        - Research team members
-        - Alumni
-      sort_by: Params.role_rank
-      sort_ascending: true
-    design:
-      # Show user's social networking links? (true/false)
-      show_social: false
-      # Show user's interests? (true/false)
-      show_interests: false
-      # Show user's role?
-      show_role: true
-      # Show user's organizations/affiliations?
-      show_organizations: false
+#  - block: people
+#    id: people
+#    content:
+#      title: Meet the Team
+#      # Choose which groups/teams of users to display.
+#      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+#      user_groups:
+#        - Research team members
+#        - Alumni
+#      sort_by: Params.role_rank
+#      sort_ascending: true
+#    design:
+#      # Show user's social networking links? (true/false)
+#      show_social: false
+#      # Show user's interests? (true/false)
+#      show_interests: false
+#      # Show user's role?
+#      show_role: true
+#      # Show user's organizations/affiliations?
+#      show_organizations: false
 #      columns: "2"
 #  - block: github.zackxiangyu.people
 #    id: people_
@@ -291,47 +296,47 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="group" >}}
-    design:
-      columns: '1'
+#  - block: markdown
+#    content:
+#      title: Gallery
+#      subtitle: ''
+#      text: |-
+#        {{< gallery album="group" >}}
+#    design:
+#      columns: '1'
 #      spacing:
 #        padding: ["20px", "0", "20px", "0"]
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      # Contact (add or remove contact options as necessary)
-      email: zhanxianyuan@air.tsinghua.edu.cn
-#      phone: 888 888 88 88
-      address:
-        street: 12 / F, block C, Qidi science and technology building, Tsinghua Science and Technology Park, Haidian District
-        city: Beijing
-        region: 
-        postcode: '100000'
-        country: China
-        country_code: 
-      directions: 
-      office_hours:
-      contact_links:
-        - icon: github
-          icon_pack: fab
-          name: Find us on GitHub
-          link: 'https://github.com/AIR-DI'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      # form:
-      #  provider: netlify
-      #  formspree:
-      #    id:
-      #  netlify:
-      #    # Enable CAPTCHA challenge to reduce spam?
-      #    captcha: false
-    design:
-      columns: '2'
+#  - block: contact
+#    id: contact
+#    content:
+#      title: Contact
+#      # Contact (add or remove contact options as necessary)
+#      email: zhanxianyuan@air.tsinghua.edu.cn
+##      phone: 888 888 88 88
+#      address:
+#        street: 12 / F, block C, Qidi science and technology building, Tsinghua Science and Technology Park, Haidian District
+#        city: Beijing
+#        region: 
+#        postcode: '100000'
+#        country: China
+#        country_code: 
+#      directions: 
+#      office_hours:
+#      contact_links:
+#        - icon: github
+#          icon_pack: fab
+#          name: Find us on GitHub
+#          link: 'https://github.com/AIR-DI'
+#      # Automatically link email and phone or display as text?
+#      autolink: true
+#      # Email form provider
+#      # form:
+#      #  provider: netlify
+#      #  formspree:
+#      #    id:
+#      #  netlify:
+#      #    # Enable CAPTCHA challenge to reduce spam?
+#      #    captcha: false
+#    design:
+#      columns: '2'
 ---
