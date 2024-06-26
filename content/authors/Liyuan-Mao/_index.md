@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Research Intern
+role: Undergraduate student at Shanghai Jiao Tong University
 role_rank: 3
 
 # Organizations/Affiliations to show in About widget
@@ -77,8 +77,7 @@ email: ''
 highlight_name: false
 
 user_groups:
-  - Researchers
-  - Research team members
+  - Alumni
 
 ---
 
