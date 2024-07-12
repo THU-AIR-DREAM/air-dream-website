@@ -18,9 +18,11 @@ publication: "*Advances in Neural Information Processing Systems*"
 url_pdf: "https://arxiv.org/abs/2306.04220"
 
 projects: 
-  - Algorithms  
+  - Algorithms 
+  - AIoT
 
 tags:
   - Algorithms 
+  - AIoT
 ---
 
