@@ -18,7 +18,7 @@ marketing:
     site_type: ResearchOrganization
     local_business_type: ''
     org_name: 'AIR-DREAM Lab'
-    description: ''
+    description: 'Welcome to AIR-DREAM (Decision-making Research for Empowered AI Methods) Lab, a research group at Institute for AI Industry Research (AIR), Tsinghua University.'
     twitter: ''
   analytics:
     google_analytics: 'G-NL9F8GHZ5L'
@@ -27,7 +27,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'szb7sewlHxmrsvWhPcNZp98imx07-weA-YscIlC-YKA'
     baidu: ''
 
 # Site header

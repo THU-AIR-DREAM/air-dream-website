@@ -31,10 +31,12 @@ links:
   url: https://2toinf.github.io/DecisionNCE/
 
 projects: 
-  - Algorithms  
+  - Algorithms 
+  - Robotics
 
 tags:
   - Algorithms 
+  - Robotics
 
 images:
   - url: https://2toinf.github.io/DecisionNCE/assets/web/teaser.mp4

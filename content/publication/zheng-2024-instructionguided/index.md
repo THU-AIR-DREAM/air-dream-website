@@ -30,9 +30,11 @@ links:
 
 projects: 
   - Algorithms  
+  - Robotics
 
 tags:
-  - Algorithms 
+  - Algorithms
+  - Robotics
 
 image:
   placement: 1
