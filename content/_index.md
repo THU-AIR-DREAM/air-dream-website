@@ -91,6 +91,10 @@ sections:
       title: News
       text: |-
 
+        - **Sep. 2024**: Our two recent papers [“Instruction-Guided Visual Masking”](./publication/zheng-2024-instructionguided) and [“Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning”](./publication/mao-2024-diffusiondice) have been accepted in NeurIPS 2024!
+
+        - **Jul. 2024**: Our two recent papers [“DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning”](./publication/li-2024-decisionnce) and [“Instruction-Guided Visual Masking”](./publication/zheng-2024-instructionguided) have won the **Outstanding Paper Awards** at ICML 2024 Workshop on Multi-modal Foundation Model meets Embodied AI (MFM-EAI).
+
         - **May. 2024**: Our four recent papers [“DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning”](./publication/li-2024-decisionnce), [“OMPO: A Unified Framework for Reinforcement Learning under Policy and Dynamics Shifts”](./publication/luo-2024-ompo), [“Offline-Boosted Actor-Critic: Adaptively Blending Optimal Historical Behaviors in Deep Off-Policy RL”](./publication/luo-2024-offlineboosted), [“Seizing Serendipity: Exploiting the Value of Past Success in Off-Policy Actor-Critic”](./publication/ji-2023-seizing) have been accepted in ICML 2024!        
 
         - **Apr. 2024**: Our recent survey paper [“A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents”](./publication/niu-2024-comprehensive) has been accepted in IJCAI 2024.
@@ -102,10 +106,9 @@ sections:
         - **Sep. 2023**: We have released [“OpenChat: Advancing Open-source Language Models with Mixed-Quality Data”](./publication/wang-2023-openchat/), which uses ideas from offline RL to fine-tune open-source large language models! Project page available at https://github.com/imoneoi/openchat.
         
         - **Sep. 2023**: Our two recent papers [“Look Beneath the Surface: Exploiting Fundamental Symmetry for Sample-Efficient Offline RL”](./publication/cheng-2023-look/) and [“Offline Multi-Agent Reinforcement Learning with Implicit Global-to-Local Value Regularization”](./publication/wang-2023-offline/) have been accepted in NeurIPS 2023!
-        
-        - **Jan. 2023**: Our three recent papers [“Offline RL with No OOD Actions: In-Sample Learning via Implicit Value Regularization”](./publication/xu-2023-sparse/), [“When Data Geometry Meets Deep Function: Generalizing Offline Reinforcement Learning”](./publication/li-2023-when/) and [“Mind the Gap: Offline Policy Optimization for Imperfect Rewards”](./publication/li-2023-mind/) have been accepted in ICLR 2023!
 
         :fire: **We are hiring:** we are looking for postdocs and student interns. If you are interested in the research directions of data-driven decision-making, please feel free to contact us!
+#        - **Jan. 2023**: Our three recent papers [“Offline RL with No OOD Actions: In-Sample Learning via Implicit Value Regularization”](./publication/xu-2023-sparse/), [“When Data Geometry Meets Deep Function: Generalizing Offline Reinforcement Learning”](./publication/li-2023-when/) and [“Mind the Gap: Offline Policy Optimization for Imperfect Rewards”](./publication/li-2023-mind/) have been accepted in ICLR 2023!
     design:
       columns: '1'
 #      background:
