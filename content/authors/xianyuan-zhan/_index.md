@@ -51,7 +51,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zhanxianyuan@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:zhanxianyuan@mail.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: x-twitter
   icon_pack: fab
   link: https://twitter.com/atLargeIC

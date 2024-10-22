@@ -309,7 +309,7 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: zhanxianyuan@air.tsinghua.edu.cn
+      email: zhanxianyuan@mail.tsinghua.edu.cn
 #      phone: 888 888 88 88
       address:
         street: 12 / F, block C, Qidi science and technology building, Tsinghua Science and Technology Park, Haidian District
