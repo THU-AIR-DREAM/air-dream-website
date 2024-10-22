@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zhuxiangyu@air.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:zhuxiangyu@mail.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
