@@ -15,8 +15,8 @@ role_rank: 3
 
 # Organizations/Affiliations
 organizations:
-- name: Beijing University of Posts and Telecommunications
-  url: "https://www.bupt.edu.cn/"
+#- name: Beijing University of Posts and Telecommunications
+#  url: "https://www.bupt.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -30,7 +30,10 @@ education:
   courses:
   - course: BEng in Communication Engineering
     institution: Beijing University of Posts and Telecommunications
-    year: 2020
+    year: 2024
+  - course: Ph.D. student
+    institution: Tsinghua University
+    year: 2024-till now
 
 
 # Social/Academic Networking

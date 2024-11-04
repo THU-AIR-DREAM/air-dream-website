@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student at Geogia Tech, USA
+role: PhD student at Columbia Business School, USA
 role_rank: 3
 
 # Organizations/Affiliations
@@ -23,17 +23,17 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+#- Interest 1
+#- Interest 2
 
 education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+#  courses:
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
