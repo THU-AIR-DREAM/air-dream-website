@@ -17,7 +17,7 @@ abstract: "Among various branches of offline reinforcement learning (RL) methods
 
 featured: false
 
-publication: "*The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) (This paper is also accepted in NuerIPS 2024 Workshop on Open-World Agents (OWA))*"
+publication: "*The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) (oral) (This paper is also accepted in NuerIPS 2024 Workshop on Open-World Agents (OWA))*"
 
 url_pdf: "https://openreview.net/forum?id=19KvVggjVr"
 
