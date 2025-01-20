@@ -91,7 +91,7 @@ sections:
       title: News
       text: |-
 
-        - **Dec. 2024**: Our recent paper [“Are Expressive Models Truly Necessary for Offline RL?”](./publication/wang-niu-2024-rsp) has been accepted in AAAI 2025!
+        - **Dec. 2024**: Our recent paper [“Are Expressive Models Truly Necessary for Offline RL?”](./publication/wang-niu-2024-rsp) has been accepted in AAAI 2025 as **oral presentation**!
 
         - **Sep. 2024**: Our two recent papers [“Instruction-Guided Visual Masking”](./publication/zheng-2024-instructionguided) and [“Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning”](./publication/mao-2024-diffusiondice) have been accepted in NeurIPS 2024!
 
