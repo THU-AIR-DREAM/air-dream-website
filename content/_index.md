@@ -91,7 +91,11 @@ sections:
       title: News
       text: |-
 
-        - **Dec. 2024**: Our recent paper [“Are Expressive Models Truly Necessary for Offline RL?”](./publication/wang-niu-2024-rsp) has been accepted in AAAI 2025 as **oral presentation**!
+        - **Jan. 2025**: We have released [“Universal Actions for Enhanced Embodied Foundation Models”](./publication/zheng-2025-universal/), which learns universal actions to power any robotic embodiment, physical meaning, and control interfaces! Project page available at https://2toinf.github.io/UniAct/.
+
+        - **Jan. 2025**: Our three recent papers [“Data Center Cooling System Optimization Using Offline Reinforcement Learning”](./publication/zhan-2025-data/), [“Diffusion-Based Planning for Autonomous Driving with Flexible Guidance”](./publication/zheng-2025-diffusion/), and [“Skill Expansion and Composition in Parameter Space”](./publication/liu-2025-skill/) have been accepted in ICLR 2025!
+
+        - **Dec. 2024**: Our recent paper [“Are Expressive Models Truly Necessary for Offline RL?”](./publication/wang-niu-2024-rsp) has been accepted as an **oral paper** in AAAI 2025!
 
         - **Sep. 2024**: Our two recent papers [“Instruction-Guided Visual Masking”](./publication/zheng-2024-instructionguided) and [“Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning”](./publication/mao-2024-diffusiondice) have been accepted in NeurIPS 2024!
 
@@ -103,13 +107,13 @@ sections:
 
         - **Jan. 2024**: Our four recent papers [“Revealing the Mystery of Distribution Correction Estimation via Orthogonal-gradient Update”](./publication/mao-2024-odice/), [“Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model”](./publication/zheng-2024-fisor/), [“Query-Policy Misalignment in Preference-Based Reinforcement Learning”](./publication/hu-2023-querypolicy/), and [“OpenChat: Advancing Open-source Language Models with Mixed-Quality Data”](./publication/wang-2023-openchat/) have been accepted in ICLR 2024!
 
-        - **Oct. 2023**: We have released [“Data-Driven Control Library (D2C)”](./project/libs/), which provides an easy-to-use and comprehensive library for real-world data-driven control & decision-making problems! Project page available at https://github.com/AIR-DI/D2C. 
-
-        - **Sep. 2023**: We have released [“OpenChat: Advancing Open-source Language Models with Mixed-Quality Data”](./publication/wang-2023-openchat/), which uses ideas from offline RL to fine-tune open-source large language models! Project page available at https://github.com/imoneoi/openchat.
-        
-        - **Sep. 2023**: Our two recent papers [“Look Beneath the Surface: Exploiting Fundamental Symmetry for Sample-Efficient Offline RL”](./publication/cheng-2023-look/) and [“Offline Multi-Agent Reinforcement Learning with Implicit Global-to-Local Value Regularization”](./publication/wang-2023-offline/) have been accepted in NeurIPS 2023!
-
         :fire: **We are hiring:** we are looking for postdocs and student interns. If you are interested in the research directions of data-driven decision-making, please feel free to contact us!
+# - **Oct. 2023**: We have released [“Data-Driven Control Library (D2C)”](./project/libs/), which provides an easy-to-use and comprehensive library for real-world data-driven control & decision-making problems! Project page available at https://github.com/AIR-DI/D2C. 
+
+# - **Sep. 2023**: We have released [“OpenChat: Advancing Open-source Language Models with Mixed-Quality Data”](./publication/wang-2023-openchat/), which uses ideas from offline RL to fine-tune open-source large language models! Project page available at https://github.com/imoneoi/openchat.
+        
+# - **Sep. 2023**: Our two recent papers [“Look Beneath the Surface: Exploiting Fundamental Symmetry for Sample-Efficient Offline RL”](./publication/cheng-2023-look/) and [“Offline Multi-Agent Reinforcement Learning with Implicit Global-to-Local Value Regularization”](./publication/wang-2023-offline/) have been accepted in NeurIPS 2023!
+
 #        - **Jan. 2023**: Our three recent papers [“Offline RL with No OOD Actions: In-Sample Learning via Implicit Value Regularization”](./publication/xu-2023-sparse/), [“When Data Geometry Meets Deep Function: Generalizing Offline Reinforcement Learning”](./publication/li-2023-when/) and [“Mind the Gap: Offline Policy Optimization for Imperfect Rewards”](./publication/li-2023-mind/) have been accepted in ICLR 2023!
     design:
       columns: '1'
