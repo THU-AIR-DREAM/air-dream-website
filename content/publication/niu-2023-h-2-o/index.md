@@ -33,5 +33,5 @@ tags:
   - Algorithms
   - Robotics
 ---
-# *Other information*
+## **Other information**
 - The paper was also previously accepted in ICLR 2024 Workshop on Data-centric Machine Learning Research (DMLR): Harnessing Momentum for Science.

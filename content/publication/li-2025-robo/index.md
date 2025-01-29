@@ -47,5 +47,5 @@ image:
 {{< video src="https://zh1hao.wang/Robo_MUTUAL/assets/web/video.mp4" >}}
 
 
-# *Other information*
+## **Other information**
 - This paper was also previous accepted in NeurIPS 2024 Workshop on Open-World Agents (OWA).
