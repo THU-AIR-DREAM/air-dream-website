@@ -20,14 +20,14 @@ featured: false
 
 publication: "*The Thirteenth International Conference on Learning Representations (ICLR 2025)*"
 
-url_pdf: "https://openreview.net/forum?id=W8xukd70cU"
+url_pdf: "https://arxiv.org/html/2501.15085v1"
 
 url_code: ""
 
 # Custom links (uncomment lines below)
 links:
 - name: Website
-  url: 
+  url: https://air-di.github.io/AIDC/
 
 projects: 
   - Algorithms  
