@@ -33,10 +33,12 @@ image:
 
 We focus on developing robotic control and autonomous driving policy learning methods that could directly learn from real-world data, bypassing or alleviating sim-to-real gap, while achieving robust and generalizable performance. 
 
+
 Our current research focus include:
 - Offline RL / IL / planning methods for autonomous driving and robotic control
 - Offline policy optimization for safety-critical scenarios
 - Foundation models for robotic control
 - Sim-to-real adaptation
 
-
+**Latest research**:
+- [Diffusion-Planner: Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](../../publication/zheng-2025-diffusion/)

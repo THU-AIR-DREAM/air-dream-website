@@ -22,12 +22,12 @@ publication: "*The Thirteenth International Conference on Learning Representatio
 
 url_pdf: "https://openreview.net/forum?id=wM2sfVgMDH"
 
-url_code: ""
+url_code: "https://github.com/ZhengYinan-AIR/Diffusion-Planner"
 
 # Custom links (uncomment lines below)
 links:
 - name: Website
-  url: 
+  url: https://zhengyinan-air.github.io/Diffusion-Planner/
 
 projects: 
   - Algorithms  

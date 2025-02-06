@@ -25,6 +25,12 @@ publication: "*2025 IEEE International Conference on Robotics & Automation (ICRA
 
 url_pdf: "https://openreview.net/forum?id=4lxPsxpYBc"
 
+url_code: "https://github.com/AIR-DI/H2Oplus"
+
+links:
+- name: Website
+  url: https://sites.google.com/view/h2oplusauthors/
+
 projects: 
   - Algorithms  
   - Robotics

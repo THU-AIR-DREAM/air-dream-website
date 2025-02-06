@@ -26,6 +26,8 @@ publication: ""
 
 url_pdf: "https://arxiv.org/abs/2501.10105"
 
+url_code: "https://github.com/2toinf/UniAct"
+
 links:
 - name: Website
   url: https://2toinf.github.io/UniAct/
