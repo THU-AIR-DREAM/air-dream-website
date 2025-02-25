@@ -10,8 +10,8 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student
-role_rank: 2
+role: PhD Candidate
+role_rank: 1.5
 
 # Organizations/Affiliations
 organizations:
@@ -40,6 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: link
+  icon_pack: fas
+  link: https://facebear-ljx.github.io
 - icon: envelope
   icon_pack: fas
   link: 'mailto:li-jx21@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".

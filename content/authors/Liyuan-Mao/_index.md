@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Undergraduate student at Shanghai Jiao Tong University
+role: PhD student at Shanghai Jiao Tong University
 role_rank: 3
 
 # Organizations/Affiliations to show in About widget

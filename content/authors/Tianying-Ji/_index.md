@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Intern
+role: PhD student at Tsinghua University
 role_rank: 3
 
 # Organizations/Affiliations
@@ -41,6 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: link
+  icon_pack: fas
+  link: https://jity16.github.io
 - icon: envelope
   icon_pack: fas
   link: 'jity20@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
@@ -68,10 +71,12 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Research team members
+  - Alumni
+#- Researchers
+#- Research team members
 ---
 
-[//]: # (Write your self-introduction here.)
+Tianying Ji is a Ph.D. student at the Tsinghua University. She is broadly interested in reinforcement learning and optimization theory, especially model-based reinforcement learning and offline reinforcement learning.
 
-[//]: # ({style="text-align: justify;"})
+
+{style="text-align: justify;"}

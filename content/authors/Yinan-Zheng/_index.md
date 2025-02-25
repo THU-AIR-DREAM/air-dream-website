@@ -44,15 +44,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: link
+  icon_pack: fas
+  link: https://zhengyinan-air.github.io
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
+  link: 'mailto:zhengyn23@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+- icon: x-twitter
+  icon_pack: fab
+  link: https://x.com/ZhengYinan2001
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?user=mHXjEbQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/ZhengYinan-AIR
@@ -75,7 +78,6 @@ user_groups:
 - Research team members
 ---
 
-I'm a 1st-year PhD student at [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/) and School of Vehicle and Mobility, Tsinghua University, advised by [Prof. Xianyuan Zhan](http://zhanxianyuan.xyz/), [Prof. Shengbo Eben Li](https://scholar.google.com/citations?user=Dxiw1K8AAAAJ&hl=zh-CN&oi=ao) and  [Prof. Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm). I got my bachelor’s degree in automation from the School of Automation, China University of Geosciences in 2023, working closely with [Prof. Chao Zhai](https://scholar.google.com/citations?user=LDH5iTkAAAAJ&hl=zh-CN&oi=ao) and [Prof. Chuanke Zhang](https://grzy.cug.edu.cn/zhangchuanke/zh_CN/index.htm).
+I am a 2nd-year PhD student at <a href=" ">AIR, Tsinghua University</a >, advised by Prof.<a href="http://zhanxianyuan.xyz/">Xianyuan Zhan</a>, Prof.<a href="https://scholar.google.com/citations?user=Dxiw1K8AAAAJ&hl=zh-CN&oi=ao"> Shengbo Eben Li</a > and Prof.<a href="https://air.tsinghua.edu.cn/en/info/1046/1194.htm">Jingjing Liu</a>. My research focuses on advancing AI-powered solutions for <strong>safe</strong> and <strong>superhuman-level</strong> real-world decision-making and LLMs.
 
-My research interest lies in the safe and high-performance deployment of learning-based methods for real-world decision-making applications.
 {style="text-align: justify;"}
