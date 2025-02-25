@@ -43,12 +43,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:hfhuxiao@163.com'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
+- icon: x-twitter
+  icon_pack: fab
+  link: https://x.com/xiaohu10465031
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?hl=zh-CN&user=_9btJRYAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/huxiao09

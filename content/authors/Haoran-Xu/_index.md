@@ -42,6 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: link
+  icon_pack: fas
+  link: https://ryanxhr.github.io/
 - icon: envelope
   icon_pack: fas
   link: 'mailto:haoran.xu@utexas.edu'  # For a direct email link, use "mailto:test@example.org".
@@ -72,7 +75,7 @@ user_groups:
 - Alumni
 ---
 
-Hello! I am Haoran Xu (徐浩然 in Chinese). I am a first-year Ph.D. student at UT Austin, advised by [Prof. Amy Zhang](https://amyzhang.github.io/). Previously, I interned at [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and worked at [JD.com](https://corporate.jd.com/) on data-driven Reinforcement Learning and its applications. I obtained Bachelor & Master's degree from [Xidian University](https://en.xidian.edu.cn/), advised by [Xianyuan Zhan](http://zhanxianyuan.xyz/) and [Zheng Yu](http://urban-computing.com/yuzheng).
+Hello! I am Haoran Xu (徐浩然 in Chinese). I am a 2nd-year Ph.D. student at UT Austin, advised by [Prof. Amy Zhang](https://amyzhang.github.io/). Previously, I interned at [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and worked at [JD.com](https://corporate.jd.com/) on data-driven Reinforcement Learning and its applications. I obtained Bachelor & Master's degree from [Xidian University](https://en.xidian.edu.cn/), advised by [Xianyuan Zhan](http://zhanxianyuan.xyz/) and [Zheng Yu](http://urban-computing.com/yuzheng).
 
 My ultimate research dream is to maximally leveraging prior information to facilitate the development of machine autonomy. Towards this goal, my work primarily focused on offline RL, imitation learning, hybrid RL, and RLHF. I am open to collaboration, feel free to reach me out!
 

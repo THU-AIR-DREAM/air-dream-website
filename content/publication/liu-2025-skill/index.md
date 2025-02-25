@@ -21,12 +21,12 @@ publication: "*The Thirteenth International Conference on Learning Representatio
 
 url_pdf: "https://openreview.net/forum?id=GLWf2fq0bX"
 
-url_code: ""
+url_code: "https://github.com/AIR-DI/PSEC"
 
 # Custom links (uncomment lines below)
 links:
 - name: Website
-  url: 
+  url: https://ltlhuuu.github.io/PSEC/
 
 projects: 
   - Algorithms  

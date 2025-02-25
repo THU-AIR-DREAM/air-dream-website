@@ -18,7 +18,7 @@ abstract: "Achieving human-like driving behaviors in complex open-world environm
 
 featured: false
 
-publication: "*The Thirteenth International Conference on Learning Representations (ICLR 2025)*"
+publication: "*The Thirteenth International Conference on Learning Representations (ICLR 2025) (oral)*"
 
 url_pdf: "https://openreview.net/forum?id=wM2sfVgMDH"
 

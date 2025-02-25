@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Intern
+role: PhD student at Tsinghua University
 role_rank: 3
 
 # Organizations/Affiliations
@@ -48,7 +48,7 @@ social:
 #  link: https://twitter.com/USERNAME
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?hl=zh-CN&user=KQjoQOMAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Roythuly
@@ -67,8 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Research team members
+- Alumni
 ---
 
 [//]: # (Write your self-introduction here.)

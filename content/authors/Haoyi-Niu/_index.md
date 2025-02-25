@@ -41,6 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: link
+  icon_pack: fas
+  link: https://t6-thu.github.io
 - icon: envelope
   icon_pack: fas
   link: 't6.da.thu@gmail.com'  # For a direct email link, use "mailto:test@example.org".
@@ -59,6 +62,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-7072-3787
+- icon: book
+  icon_pack: fas
+  link: https://www.xiaohongshu.com/user/profile/60b9c13d000000000100a000?xsec_token=YB-52kCnQg6J-YX9gYU1j3xtLTs2eFrUy3Rednq5n96aU%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=60b9c13d000000000100a000&apptime=1740485093&share_id=939a0f2b7dc14f2693c80145464eada7&share_channel=copy_link  # 你的个人网站链接
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
