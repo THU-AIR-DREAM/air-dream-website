@@ -23,8 +23,8 @@ bio:
 
 # List each interest with a dash
 interests:
-- Decision making and optimization
-- Offline reinforcement learning
+#- Decision making and optimization
+#- Offline reinforcement learning
 
 education:
   courses:
@@ -77,9 +77,14 @@ user_groups:
 - Research team members
 ---
 
-Hi! I am currently a third-year PhD student at [Institude for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/) and [School of Vehicle and Mobility, Tsinghua University](http://www.svm.tsinghua.edu.cn/index.html), advised by [Prof. Xianyuan Zhan](http://zhanxianyuan.xyz/) and [Prof. Ya-Qin Zhang](https://air.tsinghua.edu.cn/en/info/1046/1188.htm). I got my bachelor’s degree in June 2021 from the School of Mechanical Engineering, [Xi’an Jiaotong University](http://en.xjtu.edu.cn/).
+Hi! I am currently a 4th-year PhD candidate at [Institude for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/) and [School of Vehicle and Mobility, Tsinghua University](http://www.svm.tsinghua.edu.cn/index.html), advised by [Prof. Xianyuan Zhan](http://zhanxianyuan.xyz/) and [Prof. Ya-Qin Zhang](https://air.tsinghua.edu.cn/en/info/1046/1188.htm). I got my bachelor’s degree in June 2021 from the School of Mechanical Engineering, [Xi’an Jiaotong University](http://en.xjtu.edu.cn/).
 
-My research interest broadly lies in advanced data-driven learning theory and algorithms on decision-making and optimization, such as **offline reinforcement learning (RL)**, as well as their promising applications on **autonomous driving** and **robotics**.
+My dream is to develop robots that are **universally deployable** across diverse real-world environments. Towards this goal, my current work primarily focused on:
 
-Find more about me at https://facebear-ljx.github.io/.
+- (**Efficient Pretrain**) How to build robotic foundation models efficiently when robotics data are limited?
+- (**Fast Post-train**) How to fastly enhance robot peformance given limited budget?
+- (**RL+X**) How to use RL to reach super-human performance on diverse domains, like robots, VLMs or LLMs?
+
+
+
 {style="text-align: justify;"}
