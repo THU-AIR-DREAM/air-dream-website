@@ -91,9 +91,9 @@ sections:
       title: News
       text: |-
 
-        - **Jan. 2025**: Our two recent papers [“Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning”](./publication/li-2025-robo/) and [“H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps”](./publication/niu-2023-h-2-o/) have been accepted in ICRA 2025!
+        - **Feb. 2025**: Our recent paper [“Universal Actions for Enhanced Embodied Foundation Models”](./publication/zheng-2025-universal/) has been accepted in CVPR 2025! It enables learning universal actions to power **any** robotic embodiment, physical meaning, and control interfaces! Project page available at https://2toinf.github.io/UniAct/.
 
-        - **Jan. 2025**: We have released [“Universal Actions for Enhanced Embodied Foundation Models”](./publication/zheng-2025-universal/), which learns universal actions to power any robotic embodiment, physical meaning, and control interfaces! Project page available at https://2toinf.github.io/UniAct/.
+        - **Jan. 2025**: Our two recent papers [“Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning”](./publication/li-2025-robo/) and [“H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps”](./publication/niu-2023-h-2-o/) have been accepted in ICRA 2025!
 
         - **Jan. 2025**: Our three recent papers [“Data Center Cooling System Optimization Using Offline Reinforcement Learning”](./publication/zhan-2025-data/), [“Diffusion-Based Planning for Autonomous Driving with Flexible Guidance”](./publication/zheng-2025-diffusion/), and [“Skill Expansion and Composition in Parameter Space”](./publication/liu-2025-skill/) have been accepted in ICLR 2025!
 
