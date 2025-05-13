@@ -91,6 +91,8 @@ sections:
       title: News
       text: |-
 
+        - **May. 2025**: Our recent paper [“Efficient Robotic Policy Learning via Latent Space Backward Planning”](./publication/liu-2025-lbp/) has been accepted in ICML 2025!
+
         - **Feb. 2025**: Our recent paper [“Universal Actions for Enhanced Embodied Foundation Models”](./publication/zheng-2025-universal/) has been accepted in CVPR 2025! It enables learning universal actions to power **any** robotic embodiment, physical meaning, and control interfaces! Project page available at https://2toinf.github.io/UniAct/.
 
         - **Jan. 2025**: Our two recent papers [“Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning”](./publication/li-2025-robo/) and [“H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps”](./publication/niu-2023-h-2-o/) have been accepted in ICRA 2025!
