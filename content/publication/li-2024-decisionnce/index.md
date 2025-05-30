@@ -5,7 +5,7 @@ date: 2024-02-28
 
 publishDate: 2024-02-28T08:43:06.102703Z
 
-authors: ["Jianxiong Li", "Jinliang Zheng", "Yinan Zheng", "Liyuan Mao", "Xiao Hu", "Sijie Cheng", "Haoyi Niu", "Jihao Liu", "Yu Liu", "Jingjing Liu", " others"]
+authors: ["Jianxiong Li", "Jinliang Zheng", "Yinan Zheng", "Liyuan Mao", "Xiao Hu", "Sijie Cheng", "Haoyi Niu", "Jihao Liu", "Yu Liu", "Jingjing Liu", "Ya-Qin Zhang", "Xianyuan Zhan"]
 
 author_notes:
 - "Equal contribution"
@@ -20,7 +20,7 @@ featured: false
 
 publication: "*Forty-first International Conference on Machine Learning (ICML 2024)*"
 
-url_pdf: "https://arxiv.org/pdf/2402.18137"
+url_pdf: "https://openreview.net/pdf?id=1sesUtOIH5"
 
 url_code: "https://github.com/2toinf/DecisionNCE"
 

@@ -13,9 +13,9 @@ abstract: "Offline reinforcement learning (RL) has received considerable attenti
 
 featured: false
 
-publication: "*Advances in Neural Information Processing Systems*"
+publication: "*Advances in Neural Information Processing Systems (NeurIPS 2023)*"
 
-url_pdf: "https://arxiv.org/abs/2307.11620"
+url_pdf: "https://papers.nips.cc/paper_files/paper/2023/file/a46c84276e3a4249ab7dbf3e069baf7f-Paper-Conference.pdf"
 
 projects: 
   - Algorithms  

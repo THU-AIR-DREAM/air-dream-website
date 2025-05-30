@@ -19,9 +19,11 @@ featured: false
 
 publication: "*In the 41st International Conference on Machine Learning (ICML 2024)*"
 
-url_pdf: "https://arxiv.org/abs/2306.02865"
+url_pdf: "https://openreview.net/pdf/8ae24c4cb660d3ec4cf3df2602d7dee1f356480a.pdf"
 
-url_code: "https://beeauthors.github.io/"
+links:
+- name: Website
+  url: https://beeauthors.github.io/
 
 projects: 
   - Algorithms  
