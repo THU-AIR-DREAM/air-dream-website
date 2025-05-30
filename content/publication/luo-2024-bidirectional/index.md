@@ -17,6 +17,8 @@ publication: "*1st Reinforcement Learning Conference (RLC 2024)*"
 
 url_pdf: "https://openreview.net/forum?id=nvVh7vv4yK"
 
+url_code: "https://github.com/Roythuly/BrHPO"
+
 projects: 
   - Algorithms  
 

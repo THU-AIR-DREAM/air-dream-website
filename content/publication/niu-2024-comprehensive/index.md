@@ -15,7 +15,7 @@ featured: false
 
 publication: "*33st International Joint Conference on Artificial Intelligence (IJCAI 2024)*"
 
-url_pdf: "https://arxiv.org/abs/2402.04580"
+url_pdf: "https://www.ijcai.org/proceedings/2024/0906.pdf"
 
 url_code: "https://github.com/t6-thu/awesome-cross-domain-policy-transfer-for-embodied-agents"
 

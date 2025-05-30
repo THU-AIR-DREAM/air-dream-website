@@ -23,7 +23,7 @@ featured: false
 
 publication: "*In the Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS 2024)*"
 
-url_pdf: "https://arxiv.org/abs/2407.20109"
+url_pdf: "https://proceedings.neurips.cc/paper_files/paper/2024/file/b2fea79b1137d917e8b7cce9434ab5fa-Paper-Conference.pdf"
 
 url_code: "https://github.com/maoliyuan/diffusion-DICE-Pytorch"
 
