@@ -31,10 +31,122 @@ image:
 # slides: example
 ---
 
-Conventional industrial systems and emerging systems such as data centers, 5G communication networks consume enormous amount of energy and non-renewable resources. We focus on developing advanced data-driven AI methods to optimize real-world complex industrial and AIoT systems. Helping the related industries to improve operation efficiency, save energy, reduce emission, and ultimately achieving the goal of green and sustanable development. 
+<!-- Conventional industrial systems and emerging systems such as data centers, 5G communication networks consume enormous amount of energy and non-renewable resources. We focus on developing advanced data-driven AI methods to optimize real-world complex industrial and AIoT systems. Helping the related industries to improve operation efficiency, save energy, reduce emission, and ultimately achieving the goal of green and sustanable development. 
 
 Our current research focus include:
 - Simulator-free data-driven control optimization for complex industrial systems
 - Energy saving optimization for data centers
 - 5G Massive MIMO Beamforming optimization
-- Engineering policy integrated hybrid RL
+- Engineering policy integrated hybrid RL -->
+
+<div style="font-family: Helvetica, sans-serif; max-width: 960px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
+
+  <!-- <p style="font-size: 18px;">
+    Conventional industrial systems and emerging systems such as data centers, 5G communication networks consume enormous amount of energy and non-renewable resources.
+    We focus on developing advanced data-driven AI methods to optimize real-world complex industrial and AIoT systems.
+    Helping the related industries to improve operation efficiency, save energy, reduce emission, and ultimately achieving the goal of green and sustainable development.
+  </p> -->
+
+  <div style="
+    padding: 2px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #e0f2fe, #ecfdf5);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+">
+    <div style="
+        background: white;
+        border-radius: 10px;
+        padding: 20px;
+    ">
+        <p style="
+            font-size: 18px;
+            line-height: 1.7;
+            color: #1e293b;
+            margin: 0;
+        ">
+            Conventional industrial systems and emerging systems such as data centers, 5G communication networks consume enormous amount of energy and non-renewable resources.
+            We focus on developing advanced data-driven AI methods to optimize real-world complex industrial and AIoT systems.
+            Helping the related industries to improve operation efficiency, save energy, reduce emission, and ultimately achieving the goal of green and sustainable development.
+        </p>
+    </div>
+</div>
+
+  <h3 style="margin-top: 24px; color: #00bcd4; font-size: 24px;">Our current research focus includes:</h3>
+  
+  <!-- 卡片式布局 -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 24px; margin-top: 24px;">
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); transition: transform 0.3s ease; border-left: 4px solid #00bcd4;">
+      <h4 style="margin-top: 0; margin-bottom: 12px; color: #222; font-size: 18px;">Simulator-Free Optimization</h4>
+      <p style="margin: 0; font-size: 16px; color: #555;">Data-driven control optimization for complex industrial systems</p>
+    </div>
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); transition: transform 0.3s ease; border-left: 4px solid #4caf50;">
+      <h4 style="margin-top: 0; margin-bottom: 12px; color: #222; font-size: 18px;">Data Center Efficiency</h4>
+      <p style="margin: 0; font-size: 16px; color: #555;">Energy saving optimization for data centers</p>
+    </div>
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); transition: transform 0.3s ease; border-left: 4px solid #ff9800;">
+      <h4 style="margin-top: 0; margin-bottom: 12px; color: #222; font-size: 18px;">5G Beamforming</h4>
+      <p style="margin: 0; font-size: 16px; color: #555;">Massive MIMO Beamforming optimization for 5G</p>
+    </div>
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); transition: transform 0.3s ease; border-left: 4px solid #9c27b0;">
+      <h4 style="margin-top: 0; margin-bottom: 12px; color: #222; font-size: 18px;">Hybrid RL</h4>
+      <p style="margin: 0; font-size: 16px; color: #555;">Engineering policy integrated hybrid reinforcement learning</p>
+    </div>
+
+  </div>
+
+  <div align="center" style="font-family: Helvetica, sans-serif; margin-bottom: 1em; margin-top: 60px;">
+    <h2 style="color: #00bcd4; text-transform: uppercase; font-size: 40px; margin: 0;">Latest Achievement</h2>
+    <h1 style="color: #222; font-size: 28px; font-weight: bold; margin: 0.3em 0 1em;">Data Center Cooling System Optimization</h1>
+  </div>
+
+  <!-- <div align="center">
+    <iframe 
+      src="https://player.bilibili.com/player.html?bvid=BV1ADMcz2EYf&autoplay=1&loop=1"
+      allowfullscreen
+      style="width: 100%; max-width: 960px; aspect-ratio: 16/9; border: 0; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+    </iframe>
+  </div> -->
+
+  <div align="center" style="
+      position: relative;
+      overflow: hidden;
+      border-radius: 20px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      display: inline-block;
+      background: #fff; /* 确保背景色一致 */
+      line-height: 0; /* 消除行高影响 */
+      font-size: 0; /* 消除字体大小间隙 */
+      width: 100%;
+      max-width: 960px;
+    ">
+  
+  <iframe 
+    src="https://player.bilibili.com/player.html?bvid=BV1ADMcz2EYf&autoplay=1&loop=1"
+    allowfullscreen
+    style="
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 16/9;
+      border: 0;
+      border-radius: 20px;
+      background: #fff;
+      transform: translateZ(0);
+      vertical-align: bottom; /* 消除底部间隙 */
+    ">
+  </iframe>
+  
+  <!-- 边界覆盖层 - 确保边缘完美 -->
+  <div style="
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 1px;
+        background: #fff;
+        z-index: 10;
+        pointer-events: none;
+      "></div>
+</div>
+
+</div>
