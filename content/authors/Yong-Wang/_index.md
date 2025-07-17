@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student at BIT (Beijing Institute of Technology)
+role: Postdoc at Hong Kong University
 role_rank: 3
 
 # Organizations/Affiliations

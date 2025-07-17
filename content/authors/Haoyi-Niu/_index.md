@@ -10,13 +10,13 @@ authors:
 superuser: false
 
 # Role/position (e.g., Faculty Member, Research Staff, PhD Student, Research Intern)
-role: Research Intern
+role: PhD student at UC Berkeley, USA
 role_rank: 3
 
 # Organizations/Affiliations
 organizations:
-- name: Institute for AI Industry Research (AIR), Tsinghua University
-  url: "https://air.tsinghua.edu.cn/"
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -80,8 +80,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Research team members
+- Alumni
 ---
 
 Hi! I am currently a master student at Intelligent Transportation Lab, Institute of Systems Engineering, Department of Automation, Tsinghua University. Additionally, I work as a research intern at Institute for AI Industry Research (AIR), Tsinghua University, advised by Prof. Xianyuan Zhan. I got my bachelor’s degree in June 2022 from the Department of Automation, Tsinghua University. 

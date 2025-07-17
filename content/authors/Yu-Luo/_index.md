@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student at Tsinghua University
+role: Research Scientist at Huawei
 role_rank: 3
 
 # Organizations/Affiliations

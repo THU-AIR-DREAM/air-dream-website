@@ -31,7 +31,7 @@ image:
 # slides: example
 ---
 
-A main research direction for the AIR-DREAM Lab is to develop high-performance, robust, generalizable, and real-world deployable data-driven decision-making algorithms. We are specifically interested in offline policy learning methods, such as offline reinforcement learning (RL), offline imitation learning (IL), and offline planning, which enable a simulation-free and low-cost solution to address many real-world problems. 
+<!-- A main research direction for the AIR-DREAM Lab is to develop high-performance, robust, generalizable, and real-world deployable data-driven decision-making algorithms. We are specifically interested in offline policy learning methods, such as offline reinforcement learning (RL), offline imitation learning (IL), and offline planning, which enable a simulation-free and low-cost solution to address many real-world problems. 
 
 Our current research focus include:
 - Sample-efficient / high-generalization offline RL / IL / planning algorithms
@@ -39,5 +39,59 @@ Our current research focus include:
 - Safe offline RL algorithms
 - Hybrid RL that combines offline and online policy learning
 - Offline policy learning under imperfect reward
-- Feedback-efficient RLHF
+- Feedback-efficient RLHF -->
 
+<div style="font-family: Helvetica, sans-serif; max-width: 960px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
+
+  <div style="
+    padding: 2px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #e0f2fe, #ecfdf5);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+">
+    <div style="
+        background: white;
+        border-radius: 10px;
+        padding: 20px;
+    ">
+        <p style="
+            font-size: 18px;
+            line-height: 1.7;
+            color: #1e293b;
+            margin: 0;
+        ">
+            A main research direction for the AIR-DREAM Lab is to develop high-performance, robust, generalizable, and real-world deployable data-driven decision-making algorithms. We are specifically interested in offline policy learning methods, such as offline reinforcement learning (RL), offline imitation learning (IL), and offline planning, which enable a simulation-free and low-cost solution to address many real-world problems. 
+        </p>
+    </div>
+</div>
+
+<h3 style="margin-top: 24px; color: #00bcd4; font-size: 24px;">Our current research focus includes:</h3>
+  
+  <!-- 卡片式布局 -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 24px; margin-top: 24px;">
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); transition: transform 0.3s ease; border-left: 4px solid #00bcd4;">
+      <h4 style="margin-top: 0; margin-bottom: 12px; color: #222; font-size: 18px;">Sample-efficient / high-generalization offline RL / IL / planning algorithms</h4>
+      <!-- <p style="margin: 0; font-size: 16px; color: #555;">Data-driven control optimization for complex industrial systems</p> -->
+    </div>
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); transition: transform 0.3s ease; border-left: 4px solid #4caf50;">
+      <h4 style="margin-top: 0; margin-bottom: 12px; color: #222; font-size: 18px;">Foundation models for decision-making</h4>
+      <!-- <p style="margin: 0; font-size: 16px; color: #555;">Energy saving optimization for data centers</p> -->
+    </div>
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); transition: transform 0.3s ease; border-left: 4px solid #ff9800;">
+      <h4 style="margin-top: 0; margin-bottom: 12px; color: #222; font-size: 18px;">Safe offline RL algorithms</h4>
+      <!-- <p style="margin: 0; font-size: 16px; color: #555;">Massive MIMO Beamforming optimization for 5G</p> -->
+    </div>
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); transition: transform 0.3s ease; border-left: 4px solid rgb(255, 204, 0);">
+      <h4 style="margin-top: 0; margin-bottom: 12px; color: #222; font-size: 18px;">Hybrid RL that combines offline and online policy learning</h4>
+      <!-- <p style="margin: 0; font-size: 16px; color: #555;">Massive MIMO Beamforming optimization for 5G</p> -->
+    </div>
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); transition: transform 0.3s ease; border-left: 4px solid #9c27b0;">
+      <h4 style="margin-top: 0; margin-bottom: 12px; color: #222; font-size: 18px;">Offline policy learning under imperfect reward</h4>
+      <!-- <p style="margin: 0; font-size: 16px; color: #555;">Engineering policy integrated hybrid reinforcement learning</p> -->
+    </div>
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); transition: transform 0.3s ease; border-left: 4px solid rgb(215, 58, 205);">
+      <h4 style="margin-top: 0; margin-bottom: 12px; color: #222; font-size: 18px;">Feedback-efficient RLHF</h4>
+      <!-- <p style="margin: 0; font-size: 16px; color: #555;">Engineering policy integrated hybrid reinforcement learning</p> -->
+    </div>
+
+  </div> 

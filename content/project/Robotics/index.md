@@ -31,7 +31,7 @@ image:
 # slides: example
 ---
 
-We focus on developing robotic control and autonomous driving policy learning methods that could directly learn from real-world data, bypassing or alleviating sim-to-real gap, while achieving robust and generalizable performance. 
+<!-- We focus on developing robotic control and autonomous driving policy learning methods that could directly learn from real-world data, bypassing or alleviating sim-to-real gap, while achieving robust and generalizable performance. 
 
 
 Our current research focus include:
@@ -41,4 +41,54 @@ Our current research focus include:
 - Sim-to-real adaptation
 
 **Latest research**:
-- [Diffusion-Planner: Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](../../publication/zheng-2025-diffusion/)
+- [Diffusion-Planner: Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](../../publication/zheng-2025-diffusion/) -->
+
+
+<div style="font-family: Helvetica, sans-serif; max-width: 960px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
+
+  <div style="
+    padding: 2px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #e0f2fe, #ecfdf5);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+">
+    <div style="
+        background: white;
+        border-radius: 10px;
+        padding: 20px;
+    ">
+        <p style="
+            font-size: 18px;
+            line-height: 1.7;
+            color: #1e293b;
+            margin: 0;
+        ">
+            We focus on developing robotic control and autonomous driving policy learning methods that could directly learn from real-world data, bypassing or alleviating sim-to-real gap, while achieving robust and generalizable performance. 
+        </p>
+    </div>
+</div>
+
+<h3 style="margin-top: 24px; color: #00bcd4; font-size: 24px;">Our current research focus includes:</h3>
+  
+  <!-- 卡片式布局 -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 24px; margin-top: 24px;">
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); transition: transform 0.3s ease; border-left: 4px solid #00bcd4;">
+      <h4 style="margin-top: 0; margin-bottom: 12px; color: #222; font-size: 18px;">Offline RL / IL / planning methods for autonomous driving and robotic control</h4>
+    </div>
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); transition: transform 0.3s ease; border-left: 4px solid #4caf50;">
+      <h4 style="margin-top: 0; margin-bottom: 12px; color: #222; font-size: 18px;">Offline policy optimization for safety-critical scenarios</h4>
+    </div>
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); transition: transform 0.3s ease; border-left: 4px solid #ff9800;">
+      <h4 style="margin-top: 0; margin-bottom: 12px; color: #222; font-size: 18px;">Foundation models for robotic control</h4>
+    </div>
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); transition: transform 0.3s ease; border-left: 4px solid #9c27b0;">
+      <h4 style="margin-top: 0; margin-bottom: 12px; color: #222; font-size: 18px;">Sim-to-real adaptation</h4>
+    </div>
+
+  </div>
+
+<div align="center" style="font-family: Helvetica, sans-serif; margin-bottom: 1em; margin-top: 60px;">
+    <h2 style="color: #00bcd4; text-transform: uppercase; font-size: 40px; margin: 0;">Latest Achievement</h2>
+    <h1 style="color: #121212; font-size: 28px; font-weight: bold; margin: 0.3em 0 1em;">
+    <a href="../../publication/zheng-2025-diffusion/" style="color:rgb(13, 181, 227);">Diffusion-Planner: Diffusion-Based Planning for Autonomous Driving with Flexible Guidance</a></h1>
+  </div>
