@@ -32,21 +32,60 @@ image:
 # slides: example
 ---
 
-We provide open code implementations for most of our research, please check our papers for related codes. In addition, we aim to develop easy-to-use and comprehensive algorithm libraries and tools to accelerate the real-world deployment of advanced data-driven decision-making methods.
+<div style="font-family: Helvetica, sans-serif; max-width: 960px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
 
-<div style="text-align: center;">
-<span style="font-size: 28px; font-weight: bold;">
-    Data-Drivien Decision-Making Libraries / Tools
-</span>
+  <div style="
+    padding: 2px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #e0f2fe, #ecfdf5);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+">
+    <div style="
+        background: white;
+        border-radius: 10px;
+        padding: 20px;
+    ">
+        <p style="
+            font-size: 18px;
+            line-height: 1.7;
+            color: #1e293b;
+            margin: 0;
+        ">
+            We provide open code implementations for most of our research, please check our papers for related codes. In addition, we aim to develop easy-to-use and comprehensive algorithm libraries and tools to accelerate the real-world deployment of advanced data-driven decision-making methods.
+        </p>
+    </div>
 </div>
 
-[//]: # (## **Data-Drivien Decision-Making Libraries / Tools**)
+<h3 style="margin-top: 24px; color: #00bcd4; font-size: 24px; text-align: center;">Data-Drivien Decision-Making Libraries / Tools</h3>
 
 ![screen reader text](d2c-logo.png "")
 
-[Data-Driven Control Lib (D2C)](https://github.com/AIR-DI/D2C) is a library for data-driven decision-making & control based on state-of-the-art offline reinforcement learning (RL), offline imitation learning (IL), and offline planning algorithms. It is a platform for solving various decision-making & control problems in real-world scenarios. D2C is designed to offer fast and convenient algorithm performance development and testing, as well as providing easy-to-use toolchains to accelerate the real-world deployment of SOTA data-driven decision-making methods.
 
-The current supported offline RL/IL algorithms include (**more to come**):
+<div style="font-family: Helvetica, sans-serif; max-width: 960px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
+
+  <div style="
+    padding: 2px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #e0f2fe, #ecfdf5);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+">
+    <div style="
+        background: white;
+        border-radius: 10px;
+        padding: 20px;
+    ">
+        <p style="
+            font-size: 18px;
+            line-height: 1.7;
+            color: #1e293b;
+            margin: 0;
+        ">
+            <a href="https://github.com/AIR-DI/D2C">Data-Driven Control Lib (D2C)</a> is a library for data-driven decision-making & control based on state-of-the-art offline reinforcement learning (RL), offline imitation learning (IL), and offline planning algorithms. It is a platform for solving various decision-making & control problems in real-world scenarios. D2C is designed to offer fast and convenient algorithm performance development and testing, as well as providing easy-to-use toolchains to accelerate the real-world deployment of SOTA data-driven decision-making methods.
+        </p>
+    </div>
+</div>
+
+<h3 style="margin-top: 24px; color:rgb(94, 120, 225); font-size: 20px;">The current supported offline RL/IL algorithms include (more to come):</h3>
 
 - [Twin Delayed DDPG with Behavior Cloning (TD3+BC)](https://arxiv.org/pdf/2106.06860.pdf)
 - [Distance-Sensitive Offline Reinforcement Learning (DOGE)](https://arxiv.org/abs/2205.11027.pdf)
@@ -57,32 +96,53 @@ The current supported offline RL/IL algorithms include (**more to come**):
 - [Discriminator-Guided Model-Based Offline Imitation Learning (DMIL)](https://arxiv.org/abs/2207.00244)
 - [Behavior Cloning (BC)](http://www.cse.unsw.edu.au/~claude/papers/MI15.pdf)
 
-Features:
-  - D2C includes a large collection of offline RL and IL algorithms: model-free and model-based offline RL/IL algorithms, as well as planning methods. 
-  - D2C is highly modular and extensible. You can easily build custom algorithms and conduct experiments with it.
-  - D2C automates the development process in real-world control applications. It simplifies the steps of problem definition/mathematical formulation, policy training, policy evaluation and model deployment.
+<h3 style="margin-top: 24px; color:rgb(94, 120, 225); font-size: 20px;">Features:</h3>
 
-Library Information:
-  - The library is available in [https://github.com/AIR-DI/D2C](https://github.com/AIR-DI/D2C).
-  - The tutorials and API documentation are hosted on [air-d2c.readthedocs.io](https://air-d2c.readthedocs.io/).
+- D2C includes a large collection of offline RL and IL algorithms: model-free and model-based offline RL/IL algorithms, as well as planning methods. 
+- D2C is highly modular and extensible. You can easily build custom algorithms and conduct experiments with it.
+- D2C automates the development process in real-world control applications. It simplifies the steps of problem definition/mathematical formulation, policy training, policy evaluation and model deployment.
+
+<h3 style="margin-top: 24px; color:rgb(94, 120, 225); font-size: 20px;">Library Information:</h3>
+
+- The library is available in [https://github.com/AIR-DI/D2C](https://github.com/AIR-DI/D2C).
+- The tutorials and API documentation are hosted on [air-d2c.readthedocs.io](https://air-d2c.readthedocs.io/).
 
 
-<div style="text-align: center;">
-<span style="font-size: 28px; font-weight: bold;">
-    Online RL Library
-</span>
+<h3 style="margin-top: 24px; color: #00bcd4; font-size: 24px; text-align: center;">Online RL Library</h3>
+
+<div style="font-family: Helvetica, sans-serif; max-width: 960px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
+
+  <div style="
+    padding: 2px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #e0f2fe, #ecfdf5);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+">
+    <div style="
+        background: white;
+        border-radius: 10px;
+        padding: 20px;
+    ">
+        <p style="
+            font-size: 18px;
+            line-height: 1.7;
+            color: #1e293b;
+            margin: 0;
+        ">
+            <a href="https://github.com/imoneoi/onerl">OneRL</a>: Event-driven fully distributed reinforcement learning framework proposed in <a href="https://arxiv.org/abs/2110.11573">"A Versatile and Efficient Reinforcement Learning Approach for Autonomous Driving"</a> that can facilitate highly efficient policy learning in RL-based tasks.
+        </p>
+    </div>
 </div>
 
-[//]: # (## **Online RL Library**)
-[OneRL](https://github.com/imoneoi/onerl): Event-driven fully distributed reinforcement learning framework proposed in "A Versatile and Efficient Reinforcement Learning Approach for Autonomous Driving" (https://arxiv.org/abs/2110.11573) that can facilitate highly efficient policy learning in RL-based tasks.
+<h3 style="margin-top: 24px; color:rgb(94, 120, 225); font-size: 20px;">Features:</h3>
 
-  - Super fast RL training! (15~30min for MuJoCo & Atari on single machine)
-  - State-of-the-art performance
-  - Scheduled and pipelined sample collection
-  - Completely lock-free execution
-  - Fully distributed architecture
-  - Full profiling & overhead identification tools 
-  - Online visualization & rendering
-  - Support multi-GPU parallel training
-  - Support exporting trained policy to ONNX for faster inference & deployment
+- Super fast RL training! (15~30min for MuJoCo & Atari on single machine)
+- State-of-the-art performance
+- Scheduled and pipelined sample collection
+- Completely lock-free execution
+- Fully distributed architecture
+- Full profiling & overhead identification tools 
+- Online visualization & rendering
+- Support multi-GPU parallel training
+- Support exporting trained policy to ONNX for faster inference & deployment
 
