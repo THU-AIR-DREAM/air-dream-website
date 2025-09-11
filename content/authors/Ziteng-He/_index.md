@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Intern
+role: PhD student at Tsinghua University
 role_rank: 3
 
 # Organizations/Affiliations
@@ -71,8 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Research team members
+- Alumni
 ---
 
 Ziteng He is an undergraduate student from Beijing university of Posts and Telecommunications, and also a research intern at Institute for AI Industry Research (AIR), Tsinghua University, advised by Prof. Xianyuan Zhan. His current work covers Reinforcement Learning and Green IDC.
