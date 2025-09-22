@@ -91,6 +91,8 @@ sections:
       title: News
       text: |-
 
+        - **Sep. 2025**: Our three recent papers [“Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling”](./publication/tan-2025-flow), [“Towards Robust Zero-Shot Reinforcement Learning”](./publication/zheng-2025-towards), and [“Unified Reinforcement Learning through Implicit Value Regularization”](./publication/xu-2025-unified) have been accepted in NeurIPS 2025!
+        
         - **May. 2025**: Our recent paper [“Efficient Robotic Policy Learning via Latent Space Backward Planning”](./publication/liu-2025-lbp/) has been accepted in ICML 2025!
 
         - **Feb. 2025**: Our recent paper [“Universal Actions for Enhanced Embodied Foundation Models”](./publication/zheng-2025-universal/) has been accepted in CVPR 2025! It enables learning universal actions to power **any** robotic embodiment, physical meaning, and control interfaces! Project page available at https://2toinf.github.io/UniAct/.
