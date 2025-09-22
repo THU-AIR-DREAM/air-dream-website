@@ -41,7 +41,7 @@ social:
 #   link:   # Link to your personal website, optional
 - icon: envelope
   icon_pack: fas
-  link: "george040200@gmail.com"   # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:george040200@gmail.com"   # For a direct email link, use "mailto:test@example.org".
 # - icon: x-twitter
 #   icon_pack: fab
 #   link:   # Link to your Twitter account, optional
