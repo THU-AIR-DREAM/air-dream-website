@@ -17,14 +17,14 @@ featured: false
 
 publication: "*In the Thirty-Ninth Conference on Neural Information Processing Systems (NeurIPS 2025)*"
 
-url_pdf: "https://neurips.cc/virtual/2025/poster/118469"
+url_pdf: "https://arxiv.org/pdf/2510.11083"
 
-url_code: ""
+url_code: "https://github.com/DiffusionAD/Flow-Planner"
 
 # Custom links (uncomment lines below)
 links:
 - name: Website
-  url: "https://neurips.cc/virtual/2025/poster/118469"
+  url: "https://github.com/DiffusionAD/Flow-Planner"
 
 projects: 
   - Algorithms  

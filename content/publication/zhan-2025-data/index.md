@@ -27,7 +27,7 @@ url_code: ""
 # Custom links (uncomment lines below)
 links:
 - name: Website
-  url: https://air-di.github.io/AIDC/
+  url: https://thu-air-dream.github.io/AIDC/
 
 projects: 
   - Algorithms  
