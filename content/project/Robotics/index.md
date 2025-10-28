@@ -88,7 +88,31 @@ Our current research focus include:
   </div>
 
 <div align="center" style="font-family: Helvetica, sans-serif; margin-bottom: 1em; margin-top: 60px;">
-    <h2 style="color: #00bcd4; text-transform: uppercase; font-size: 40px; margin: 0;">Latest Achievement</h2>
-    <h1 style="color: #121212; font-size: 28px; font-weight: bold; margin: 0.3em 0 1em;">
-    <a href="../../publication/zheng-2025-diffusion/" style="color:rgb(13, 181, 227);">Diffusion-Planner: Diffusion-Based Planning for Autonomous Driving with Flexible Guidance</a></h1>
-  </div>
+    <h1 style="color: #00bcd4; text-transform: uppercase; font-size: 40px; margin: 0;">Latest Achievement</h1>
+    <div class="card">
+    <h3 style="color: #121212; font-size: 24px; font-weight: bold; margin: 0.3em 0 1em;">
+    <a href="../../publication/zheng-2025-xvla/" style="color:rgb(212, 191, 55);">X-VLA has won First Place in the AGIBOT World Challenge (Manipulation track) @ IROS 2025!</a></h3>
+    </div>
+    <div class="card">
+    <h3 style="color: #121212; font-size: 24px; font-weight: bold; margin: 0.3em 0 1em;">
+    <a href="../../publication/zheng-2025-diffusion/" style="color:rgb(13, 181, 227);">Diffusion-Planner: Diffusion-Based Planning for Autonomous Driving with Flexible Guidance</a></h3>
+    </div>
+</div>
+
+<style>
+.card {
+  background: white;
+  border-radius: 12px;
+  padding: 5px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+  border: none;
+}
+
+/* 鼠标悬停时的效果 */
+.card:hover {
+  transform: scale(1.05); /* 放大 */
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15); /* 阴影更明显 */
+}
+</style>
+

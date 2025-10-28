@@ -91,6 +91,8 @@ sections:
       title: News
       text: |-
 
+        - **Oct. 2025**: Our [X-VLA](./publication/zheng-2025-xvla) has won **First Place** in the [AGIBOT World Challenge (Manipulation track) @ IROS 2025](https://agibot-world.com/challenge)!
+
         - **Oct. 2025**: We have released ["X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model"](./publication/zheng-2025-xvla)! A lightweight yet scalable cross-embodiment VLA model that achieve SOTA performance over all mainstream embodied AI benchmarks! Project page available at https://thu-air-dream.github.io/X-VLA/.
 
         - **Sep. 2025**: Our three recent papers [“Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling”](./publication/tan-2025-flow), [“Towards Robust Zero-Shot Reinforcement Learning”](./publication/zheng-2025-towards), and [“Unified Reinforcement Learning through Implicit Value Regularization”](./publication/xu-2025-unified) have been accepted in NeurIPS 2025!
@@ -115,7 +117,7 @@ sections:
 
         - **Jan. 2024**: Our four recent papers [“Revealing the Mystery of Distribution Correction Estimation via Orthogonal-gradient Update”](./publication/mao-2024-odice/), [“Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model”](./publication/zheng-2024-fisor/), [“Query-Policy Misalignment in Preference-Based Reinforcement Learning”](./publication/hu-2023-querypolicy/), and [“OpenChat: Advancing Open-source Language Models with Mixed-Quality Data”](./publication/wang-2023-openchat/) have been accepted in ICLR 2024!
 
-        :fire: **We are hiring:** we are looking for postdocs and student interns. If you are interested in the research directions of data-driven decision-making, please feel free to contact us!
+        :fire: **We are hiring:** Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.edu.cn/)! If you are interested in the research directions of **real-world RL/IL, AI alignment/AI safety, embodied AI**, and **decision-making in autonomous driving**, please feel free to contact us!
 # - **Oct. 2023**: We have released [“Data-Driven Control Library (D2C)”](./project/libs/), which provides an easy-to-use and comprehensive library for real-world data-driven control & decision-making problems! Project page available at https://github.com/AIR-DI/D2C. 
 
 # - **Sep. 2023**: We have released [“OpenChat: Advancing Open-source Language Models with Mixed-Quality Data”](./publication/wang-2023-openchat/), which uses ideas from offline RL to fine-tune open-source large language models! Project page available at https://github.com/imoneoi/openchat.
