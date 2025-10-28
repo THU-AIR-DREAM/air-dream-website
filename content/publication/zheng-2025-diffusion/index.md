@@ -44,4 +44,9 @@ image:
   preview_only: false
   alt_text:
 ---
-
+<div align="center">
+  <h2>
+  <b>100s Closed Loop Perfromance of Diffusion Planner without Refinement</b>
+  </h2>
+</div>
+{{< video src="https://zhengyinan-air.github.io/Diffusion-Planner/assets/video/long/final_110.mp4">}}

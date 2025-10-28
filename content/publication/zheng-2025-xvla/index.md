@@ -46,5 +46,8 @@ image:
   preview_only: false
   alt_text:
 ---
+## **Other information**
+- X-VLA has won **First Place** in the [AGIBOT World Challenge (Manipulation track) @ IROS 2025](https://agibot-world.com/challenge)!
+
 {{< video src="https://thu-air-dream.github.io/X-VLA/sources/demo.mp4" >}}
 
