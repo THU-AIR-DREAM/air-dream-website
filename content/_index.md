@@ -95,7 +95,7 @@ sections:
 
         - **Oct. 2025**: We have released ["X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model"](./publication/zheng-2025-xvla)! A lightweight yet scalable cross-embodiment VLA model that achieve SOTA performance over all mainstream embodied AI benchmarks! Project page available at https://thu-air-dream.github.io/X-VLA/.
 
-        - **Sep. 2025**: Our three recent papers [“Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling”](./publication/tan-2025-flow), [“Towards Robust Zero-Shot Reinforcement Learning”](./publication/zheng-2025-towards), and [“Unified Reinforcement Learning through Implicit Value Regularization”](./publication/xu-2025-unified) have been accepted in NeurIPS 2025!
+        - **Sep. 2025**: Our three recent papers [“Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling”](./publication/tan-2025-flow), [“Towards Robust Zero-Shot Reinforcement Learning”](./publication/zheng-2025-towards), and [“Uni-RL: Unifying Online and Offline RL via Implicit Value Regularization”](./publication/xu-2025-unified) have been accepted in NeurIPS 2025!
         
         - **May. 2025**: Our recent paper [“Efficient Robotic Policy Learning via Latent Space Backward Planning”](./publication/liu-2025-lbp/) has been accepted in ICML 2025!
 
