@@ -23,14 +23,20 @@ bio:
 
 # List each interest with a dash
 interests:
+  - Generative Models
+  - Embodied AI
   - Reinforcement Learning
-  - Autonomous Driving
+  # - Autonomous Driving
 
 education:
   courses:
+  - course: Ph.D. Student in Pattern Recognition and Intelligent Systems
+    institution: Institute of Automation, CAS
+    year: 2024 - Present
   - course: B.E. in Communication Engineering
     institution: Beijing University of Posts and Telecommunication
-    year: 2024
+    year: 2020 - 2024
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
