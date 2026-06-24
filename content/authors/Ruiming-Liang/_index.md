@@ -57,7 +57,7 @@ social:
 #   link: https://github.com/LRMbbj  # Link to your Google Scholar profile, optional
 - icon: github
   icon_pack: fab
-  link: https://github.com/LRMbbj  # Link to your GitHub profile, optional
+  link: https://lrmbbj.github.io/  # Link to your GitHub profile, optional
 # - icon: cv
 #   icon_pack: ai
 #   link:   # Link to your CV, optional
