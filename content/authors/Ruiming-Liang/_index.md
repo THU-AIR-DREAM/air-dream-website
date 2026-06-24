@@ -43,9 +43,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: link
-#   icon_pack: fas
-#   link:   # Link to your personal website, optional
+- icon: link
+  icon_pack: fas
+  link: https://lrmbbj.github.io/  # Link to your personal website, optional
 - icon: envelope
   icon_pack: fas
   link: "mailto:liangruiming2024@ia.ac.cn"   # For a direct email link, use "mailto:test@example.org".
@@ -57,7 +57,7 @@ social:
 #   link: https://github.com/LRMbbj  # Link to your Google Scholar profile, optional
 - icon: github
   icon_pack: fab
-  link: https://lrmbbj.github.io/  # Link to your GitHub profile, optional
+  link: https://github.com/LRMbbj  # Link to your GitHub profile, optional
 # - icon: cv
 #   icon_pack: ai
 #   link:   # Link to your CV, optional
