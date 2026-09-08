@@ -91,6 +91,8 @@ sections:
       title: News
       text: |-
 
+        - **Aug. 2026**: Our latest works ["ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow"](https://github.com/Dstate/ODEWorld), ["Horizon Adaptive Offline Policy Learning via Value Stitching"](https://github.com/Whiterrrrr/value-stitching) have been open-sourced! Please take a look!
+
         - **Jan. 2026**: Our four recent papers [“X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model”](./publication/zheng-2025-xvla), [“Dichotomous Diffusion Policy Optimization”](./publication/liang-2026-dipole), [“Sample Efficient Offline RL via T-Symmetry Enforced Latent State-Stitching”](./publication/cheng-2026-tels), and [“Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving”](./publication/li-2026-discrete) have been accepted in ICLR 2026!
 
         - **Oct. 2025**: Our [X-VLA](./publication/zheng-2025-xvla) has won **First Place** in the [AGIBOT World Challenge (Manipulation track) @ IROS 2025](https://agibot-world.com/challenge)!
