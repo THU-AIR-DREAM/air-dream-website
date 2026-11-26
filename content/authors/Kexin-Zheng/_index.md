@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Intern
+role:
 role_rank: 3
 
 # Organizations/Affiliations
@@ -73,8 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Research team members
+- Alumni
 ---
 
 I am a final-year Computer Science undergraduate student at The Chinese University of Hong Kong (CUHK), who passionately pursuing the dream of advancing Autonomous Vehicles (AV) and robust Reinforcement Learning (RL) Algorithms. I am currently a research intern at the Institute for AI Research (AIR), Tsinghua University, under the supervision of Professor Xianyuan Zhan.

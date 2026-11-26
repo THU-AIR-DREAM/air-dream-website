@@ -85,9 +85,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Research team members
+user_groups: []
 ---
 
 I am currently a final-year undergraduate student majoring in Electronic Information Engineering at China Agricultural University. I am also a research intern at the Institute for AI Research (AIR), Tsinghua University, advised by Prof. Xianyuan Zhan. Feel free to reach out if you'd like to chat about anything interesting!

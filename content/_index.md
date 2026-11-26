@@ -78,30 +78,42 @@ sections:
 #          parallax: true
 #          # Text color (true=light, false=dark, or remove for the dynamic theme color).
 #          text_color_light: true
-  - block: markdown
+  - block: news-timeline
     id: news
     content:
       title: News
-      text: |-
-
-        - **Aug. 2026**: Our latest works ["ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow"](https://github.com/Dstate/ODEWorld), ["Horizon Adaptive Offline Policy Learning via Value Stitching"](https://github.com/Whiterrrrr/value-stitching) have been open-sourced! Please take a look!
-
-        - **Jan. 2026**: Our four recent papers [“X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model”](./publication/zheng-2025-xvla), [“Dichotomous Diffusion Policy Optimization”](./publication/liang-2026-dipole), [“Sample Efficient Offline RL via T-Symmetry Enforced Latent State-Stitching”](./publication/cheng-2026-tels), and [“Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving”](./publication/li-2026-discrete) have been accepted in ICLR 2026!
-
-        - **Oct. 2025**: Our [X-VLA](./publication/zheng-2025-xvla) has won **First Place** in the [AGIBOT World Challenge (Manipulation track) @ IROS 2025](https://agibot-world.com/challenge)!
-
-        - **Oct. 2025**: We have released ["X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model"](./publication/zheng-2025-xvla)! A lightweight yet scalable cross-embodiment VLA model that achieve SOTA performance over all mainstream embodied AI benchmarks! Project page available at https://thu-air-dream.github.io/X-VLA/.
-
-        - **Sep. 2025**: Our three recent papers [“Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling”](./publication/tan-2025-flow), [“Towards Robust Zero-Shot Reinforcement Learning”](./publication/zheng-2025-towards), and [“Uni-RL: Unifying Online and Offline RL via Implicit Value Regularization”](./publication/xu-2025-unified) have been accepted in NeurIPS 2025!
-        
-        - **May. 2025**: Our recent paper [“Efficient Robotic Policy Learning via Latent Space Backward Planning”](./publication/liu-2025-lbp/) has been accepted in ICML 2025!
-
-        - **Feb. 2025**: Our recent paper [“Universal Actions for Enhanced Embodied Foundation Models”](./publication/zheng-2025-universal/) has been accepted in CVPR 2025! It enables learning universal actions to power **any** robotic embodiment, physical meaning, and control interfaces! Project page available at https://2toinf.github.io/UniAct/.
-
-        - **Jan. 2025**: Our two recent papers [“Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning”](./publication/li-2025-robo/) and [“H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps”](./publication/niu-2023-h-2-o/) have been accepted in ICRA 2025!
-
-        - **Jan. 2025**: Our three recent papers [“Data Center Cooling System Optimization Using Offline Reinforcement Learning”](./publication/zhan-2025-data/), [“Diffusion-Based Planning for Autonomous Driving with Flexible Guidance”](./publication/zheng-2025-diffusion/), and [“Skill Expansion and Composition in Parameter Space”](./publication/liu-2025-skill/) have been accepted in ICLR 2025!
-
+      entries:
+        - month: Nov. 2026
+          text: >-
+            Our papers ["ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow"](https://arxiv.org/abs/2607.27924) and ["Horizon Adaptive Offline Policy Learning via Value Stitching"](./publication/zheng-2026-vast) have been accepted in NeurIPS 2026!
+        - month: Aug. 2026
+          text: >-
+            Our latest works ["ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow"](https://github.com/Dstate/ODEWorld), ["Horizon Adaptive Offline Policy Learning via Value Stitching"](https://github.com/Whiterrrrr/value-stitching) have been open-sourced! Please take a look!
+        - month: Jan. 2026
+          text: >-
+            Our four recent papers [“X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model”](./publication/zheng-2025-xvla), [“Dichotomous Diffusion Policy Optimization”](./publication/liang-2026-dipole), [“Sample Efficient Offline RL via T-Symmetry Enforced Latent State-Stitching”](./publication/cheng-2026-tels), and [“Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving”](./publication/li-2026-discrete) have been accepted in ICLR 2026!
+        - month: Oct. 2025
+          text: >-
+            Our [X-VLA](./publication/zheng-2025-xvla) has won **First Place** in the [AGIBOT World Challenge (Manipulation track) @ IROS 2025](https://agibot-world.com/challenge)!
+        - month: Oct. 2025
+          text: >-
+            We have released ["X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model"](./publication/zheng-2025-xvla)! A lightweight yet scalable cross-embodiment VLA model that achieve SOTA performance over all mainstream embodied AI benchmarks! Project page available at https://thu-air-dream.github.io/X-VLA/.
+        - month: Sep. 2025
+          text: >-
+            Our three recent papers [“Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling”](./publication/tan-2025-flow), [“Towards Robust Zero-Shot Reinforcement Learning”](./publication/zheng-2025-towards), and [“Uni-RL: Unifying Online and Offline RL via Implicit Value Regularization”](./publication/xu-2025-unified) have been accepted in NeurIPS 2025!
+        - month: May. 2025
+          text: >-
+            Our recent paper [“Efficient Robotic Policy Learning via Latent Space Backward Planning”](./publication/liu-2025-lbp/) has been accepted in ICML 2025!
+        - month: Feb. 2025
+          text: >-
+            Our recent paper [“Universal Actions for Enhanced Embodied Foundation Models”](./publication/zheng-2025-universal/) has been accepted in CVPR 2025! It enables learning universal actions to power **any** robotic embodiment, physical meaning, and control interfaces! Project page available at https://2toinf.github.io/UniAct/.
+        - month: Jan. 2025
+          text: >-
+            Our two recent papers [“Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning”](./publication/li-2025-robo/) and [“H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps”](./publication/niu-2023-h-2-o/) have been accepted in ICRA 2025!
+        - month: Jan. 2025
+          text: >-
+            Our three recent papers [“Data Center Cooling System Optimization Using Offline Reinforcement Learning”](./publication/zhan-2025-data/), [“Diffusion-Based Planning for Autonomous Driving with Flexible Guidance”](./publication/zheng-2025-diffusion/), and [“Skill Expansion and Composition in Parameter Space”](./publication/liu-2025-skill/) have been accepted in ICLR 2025!
+      note: >-
         :fire: **We are hiring:** Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.edu.cn/)! If you are interested in the research directions of **real-world RL/IL, AI alignment/AI safety, embodied AI**, and **decision-making in autonomous driving**, please feel free to contact us!
 
 # - **Dec. 2024**: Our recent paper [“Are Expressive Models Truly Necessary for Offline RL?”](./publication/wang-niu-2024-rsp) has been accepted as an **oral paper** in AAAI 2025!

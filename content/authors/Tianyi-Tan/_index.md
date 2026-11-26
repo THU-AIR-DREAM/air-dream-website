@@ -10,8 +10,8 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Intern
-role_rank: 3
+role: PhD Student
+role_rank: 2.1
 
 # Organizations/Affiliations
 organizations:
