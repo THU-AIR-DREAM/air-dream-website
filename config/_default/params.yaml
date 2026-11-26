@@ -102,6 +102,9 @@ features:
 
 # Extensions
 
+plugins_js:
+  - research-motion
+
 extensions:
   cms:
     branch: main

@@ -1,0 +1,13 @@
+{{ $project := .item }}
+<a class="research-card" href="{{ $project.Params.external_link | default $project.RelPermalink }}">
+  {{ with partial "blox-core/functions/get_featured_image.html" $project }}
+    {{ $image := .Process "resize 1080x webp q90" }}
+    <div class="research-image">
+      <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="" loading="lazy">
+    </div>
+  {{ end }}
+  <div class="research-copy">
+    <h2>{{ $project.Params.card_title | default $project.Title }}</h2>
+    {{ with $project.Params.summary }}<p>{{ . }}</p>{{ end }}
+  </div>
+</a>
