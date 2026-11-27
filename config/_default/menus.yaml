@@ -13,7 +13,7 @@ main:
   - name: News
     url: '/#news'
     weight: 20
-  - name: Researches
+  - name: Research
     url: '/#researches'
     weight: 30
 #  - name: Talks
@@ -25,6 +25,6 @@ main:
   - name: People
     url: '/#people'
     weight: 60
-#  - name: Contact
-#    url: '#contact'
-#    weight: 60
+  - name: Contact
+    url: '/#contact'
+    weight: 70

@@ -10,21 +10,22 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Intern
-role_rank: 3
+role: Incoming PhD Student
+role_rank: 2.5
 
 # Organizations/Affiliations
 organizations:
 - name: Institute for AI Industry Research (AIR), Tsinghua University
-  url: https://air.tsinghua.edu.cn/en/
+  url: "https://air.tsinghua.edu.cn/en/"
 
-# Short bio (displayed in user profile at end of posts, optional)
-bio: 
+# Short bio (displayed in user profile at end of posts)
+bio: Hello! I am currently a fourth-year undergraduate student in School of Artificial Intelligence, University of Chinese Academy of Sciences. I am also an in-coming Ph.D at the [Institute for AI Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/), advised by [Prof. Xianyuan Zhan](http://zhanxianyuan.xyz/) and [Prof. Ya-Qin Zhang](https://air.tsinghua.edu.cn/en/info/1046/1188.htm). My research interest lies in robotics and embodied AI , as well as reinforcement learning. Feel free to reach out if you want to talk about any of this! :)
 
 # List each interest with a dash
 interests:
-  - Robotics
-  - Reinforcement learning
+- Embodied Intelligence
+- Robotics
+- Reinforcement Learning
 
 education:
   courses:
@@ -37,35 +38,16 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: link
-#   icon_pack: fas
-#   link:   # Link to your personal website, optional
-- icon: envelope
+- icon: envelope # i.e. email
   icon_pack: fas
-  link: "mailto:gaoyuan233@mails.ucas.ac.cn"   # For a direct email link, use "mailto:test@example.org".
-# - icon: x-twitter
-#   icon_pack: fab
-#   link:   # Link to your Twitter account, optional
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: LRMbbj - Overview  # Link to your Google Scholar profile, optional
-- icon: github
+  link: "mailto:songgao31415926@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+- icon: github # i.e. github website
   icon_pack: fab
-  link: https://github.com/songgaogy  # Link to your GitHub profile, optional
-# - icon: cv
-#   icon_pack: ai
-#   link:   # Link to your CV, optional
-# - icon: zhihu
-#   icon_pack: fab
-#   link: 
-# - icon: weixin
-#   icon_pack: fab
-#   link: 
-
+  link: https://github.com/songgaogy
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "gaoyuan233@mails.ucas.ac.cn"  # Optional
+email: "songgao31415926@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -77,6 +59,6 @@ user_groups:
 - Research team members
 ---
 
-Hello! I am currently a third-year undergraduate student in School of Artificial Intelligence, University of Chinese Academy of Science. I am also a research intern at the Institute for AI Research (AIR), Tsinghua University, advised by Prof. Xianyuan Zhan. My research interest lies in robotics and embodied AI , as well as reinforcement learning. Feel free to reach out if you want to talk about any of this! :)
+<!-- TODO: A BRIEF SELF INTRODUCTION HERE  -->
 
 {style="text-align: justify;"}

@@ -1,0 +1,23 @@
+{{ $content := .wcBlock.content }}
+<div class="section-heading text-center"><h1>{{ $content.title }}</h1></div>
+<div class="news-timeline">
+  {{ template "news-entries" (dict "entries" (first 6 $content.entries) "page" .wcPage) }}
+  {{ with after 6 $content.entries }}
+    <details class="news-archive">
+      <summary>Earlier news ({{ len . }})</summary>
+      {{ template "news-entries" (dict "entries" . "page" $.wcPage) }}
+    </details>
+  {{ end }}
+  {{ with $content.note }}<p class="news-note">{{ . | emojify | $.wcPage.RenderString }}</p>{{ end }}
+</div>
+
+{{ define "news-entries" }}
+  <ol class="news-entries" role="list">
+    {{ range .entries }}
+      <li>
+        <span class="news-month">{{ .month }}</span>
+        <div>{{ .text | $.page.RenderString }}</div>
+      </li>
+    {{ end }}
+  </ol>
+{{ end }}

@@ -12,29 +12,22 @@ sections:
       image:
         filename: hero-robot-head-s.png
       text: |- 
-
-        <!-- DREAM团队的研究方向是探索如何在决策制定中应用强大的人工智能方法。我们致力于提高AI技术的应用能力，使其能够更好地服务于现实生活和产业界的决策需求。-->
-
-        <font size=6>
-        Welcome to 
-        <b>
-        AIR-DREAM (Decision-making Research for Empowered AI Methods) Lab
-        </b> 
-        </font>
-        <font size=4>
-        Our research focus is to develop advanced learning-based data-driven decision-making theories and practical technologies that are robust, generalizable, and deployable to tackle real-world challenges. We work on fundamental learning algorithms, robust robotic control methods, optimization technologies for real-world AIoT systems, and data-driven decision-making tools & libraries.
-        </font>
-        
-        <font size=3>
-        <p style="color: #2E64FE;">
-        AIR-DREAM Lab is a research group at <a href="https://air.tsinghua.edu.cn/en/">Institute for AI Industry Research (AIR)</a>, Tsinghua University. 
-        </p>
-        </font>
-
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
-        <!--GitHub Button JS-->
-        <script async defer src="https://buttons.github.io/buttons.js"></script>
+        <div class="dream-hero-copy">
+          <span class="dream-eyebrow">Tsinghua AIR · Beijing</span>
+          <h1>AIR-DREAM <span>Lab</span></h1>
+          <p class="dream-hero-tagline">Decision intelligence, built for the real world.</p>
+          <p class="dream-hero-summary"><span>AIR-DREAM develops learning-based, data-driven decision-making</span><span>methods that are robust, generalizable, and ready for deployment.</span></p>
+          <div class="dream-topics" aria-label="Research areas">
+            <span>Decision-making AI</span>
+            <span>Embodied Intelligence</span>
+            <span>AI for Systems</span>
+          </div>
+          <div class="dream-hero-actions">
+            <a class="dream-button dream-button-primary" href="#researches">Explore our research <span aria-hidden="true">&rarr;</span></a>
+            <a class="dream-button dream-button-secondary" href="#people">Meet the team</a>
+          </div>
+          <p class="dream-affiliation">A research group at the <a href="https://air.tsinghua.edu.cn/en/">Institute for AI Industry Research (AIR)</a>, Tsinghua University.</p>
+        </div>
     design:
       background:
 #        gradient_start: '#5882FA'
@@ -85,28 +78,42 @@ sections:
 #          parallax: true
 #          # Text color (true=light, false=dark, or remove for the dynamic theme color).
 #          text_color_light: true
-  - block: markdown
+  - block: news-timeline
     id: news
     content:
       title: News
-      text: |-
-
-        - **Jan. 2026**: Our four recent papers [“X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model”](./publication/zheng-2025-xvla), [“Dichotomous Diffusion Policy Optimization”](./publication/liang-2026-dipole), [“Sample Efficient Offline RL via T-Symmetry Enforced Latent State-Stitching”](./publication/cheng-2026-tels), and [“Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving”](./publication/li-2026-discrete) have been accepted in ICLR 2026!
-
-        - **Oct. 2025**: Our [X-VLA](./publication/zheng-2025-xvla) has won **First Place** in the [AGIBOT World Challenge (Manipulation track) @ IROS 2025](https://agibot-world.com/challenge)!
-
-        - **Oct. 2025**: We have released ["X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model"](./publication/zheng-2025-xvla)! A lightweight yet scalable cross-embodiment VLA model that achieve SOTA performance over all mainstream embodied AI benchmarks! Project page available at https://thu-air-dream.github.io/X-VLA/.
-
-        - **Sep. 2025**: Our three recent papers [“Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling”](./publication/tan-2025-flow), [“Towards Robust Zero-Shot Reinforcement Learning”](./publication/zheng-2025-towards), and [“Uni-RL: Unifying Online and Offline RL via Implicit Value Regularization”](./publication/xu-2025-unified) have been accepted in NeurIPS 2025!
-        
-        - **May. 2025**: Our recent paper [“Efficient Robotic Policy Learning via Latent Space Backward Planning”](./publication/liu-2025-lbp/) has been accepted in ICML 2025!
-
-        - **Feb. 2025**: Our recent paper [“Universal Actions for Enhanced Embodied Foundation Models”](./publication/zheng-2025-universal/) has been accepted in CVPR 2025! It enables learning universal actions to power **any** robotic embodiment, physical meaning, and control interfaces! Project page available at https://2toinf.github.io/UniAct/.
-
-        - **Jan. 2025**: Our two recent papers [“Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning”](./publication/li-2025-robo/) and [“H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps”](./publication/niu-2023-h-2-o/) have been accepted in ICRA 2025!
-
-        - **Jan. 2025**: Our three recent papers [“Data Center Cooling System Optimization Using Offline Reinforcement Learning”](./publication/zhan-2025-data/), [“Diffusion-Based Planning for Autonomous Driving with Flexible Guidance”](./publication/zheng-2025-diffusion/), and [“Skill Expansion and Composition in Parameter Space”](./publication/liu-2025-skill/) have been accepted in ICLR 2025!
-
+      entries:
+        - month: Nov. 2026
+          text: >-
+            Our papers ["ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow"](https://arxiv.org/abs/2607.27924) and ["Horizon Adaptive Offline Policy Learning via Value Stitching"](./publication/zheng-2026-vast) have been accepted in NeurIPS 2026!
+        - month: Aug. 2026
+          text: >-
+            Our latest works ["ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow"](https://github.com/Dstate/ODEWorld), ["Horizon Adaptive Offline Policy Learning via Value Stitching"](https://github.com/Whiterrrrr/value-stitching) have been open-sourced! Please take a look!
+        - month: Jan. 2026
+          text: >-
+            Our four recent papers [“X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model”](./publication/zheng-2025-xvla), [“Dichotomous Diffusion Policy Optimization”](./publication/liang-2026-dipole), [“Sample Efficient Offline RL via T-Symmetry Enforced Latent State-Stitching”](./publication/cheng-2026-tels), and [“Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving”](./publication/li-2026-discrete) have been accepted in ICLR 2026!
+        - month: Oct. 2025
+          text: >-
+            Our [X-VLA](./publication/zheng-2025-xvla) has won **First Place** in the [AGIBOT World Challenge (Manipulation track) @ IROS 2025](https://agibot-world.com/challenge)!
+        - month: Oct. 2025
+          text: >-
+            We have released ["X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model"](./publication/zheng-2025-xvla)! A lightweight yet scalable cross-embodiment VLA model that achieve SOTA performance over all mainstream embodied AI benchmarks! Project page available at https://thu-air-dream.github.io/X-VLA/.
+        - month: Sep. 2025
+          text: >-
+            Our three recent papers [“Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling”](./publication/tan-2025-flow), [“Towards Robust Zero-Shot Reinforcement Learning”](./publication/zheng-2025-towards), and [“Uni-RL: Unifying Online and Offline RL via Implicit Value Regularization”](./publication/xu-2025-unified) have been accepted in NeurIPS 2025!
+        - month: May. 2025
+          text: >-
+            Our recent paper [“Efficient Robotic Policy Learning via Latent Space Backward Planning”](./publication/liu-2025-lbp/) has been accepted in ICML 2025!
+        - month: Feb. 2025
+          text: >-
+            Our recent paper [“Universal Actions for Enhanced Embodied Foundation Models”](./publication/zheng-2025-universal/) has been accepted in CVPR 2025! It enables learning universal actions to power **any** robotic embodiment, physical meaning, and control interfaces! Project page available at https://2toinf.github.io/UniAct/.
+        - month: Jan. 2025
+          text: >-
+            Our two recent papers [“Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning”](./publication/li-2025-robo/) and [“H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps”](./publication/niu-2023-h-2-o/) have been accepted in ICRA 2025!
+        - month: Jan. 2025
+          text: >-
+            Our three recent papers [“Data Center Cooling System Optimization Using Offline Reinforcement Learning”](./publication/zhan-2025-data/), [“Diffusion-Based Planning for Autonomous Driving with Flexible Guidance”](./publication/zheng-2025-diffusion/), and [“Skill Expansion and Composition in Parameter Space”](./publication/liu-2025-skill/) have been accepted in ICLR 2025!
+      note: >-
         :fire: **We are hiring:** Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.edu.cn/)! If you are interested in the research directions of **real-world RL/IL, AI alignment/AI safety, embodied AI**, and **decision-making in autonomous driving**, please feel free to contact us!
 
 # - **Dec. 2024**: Our recent paper [“Are Expressive Models Truly Necessary for Offline RL?”](./publication/wang-niu-2024-rsp) has been accepted as an **oral paper** in AAAI 2025!
@@ -196,35 +203,16 @@ sections:
   - block: portfolio
     id: researches
     content:
-      title: Researches
+      title: Research
+      subtitle: Building dependable decision-making systems from algorithms to deployment.
       filters:
         folders:
           - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Algorithms
-          tag: Algorithms
-        - name: Robotics
-          tag: Robotics
-        - name: AIoT
-          tag: AIoT
-        - name: Libs
-          tag: Libs
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       # The following content previews are available: list, compact, card, citation, showcase, masonry.
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: true
+      view: research-card
 #  - block: collection
 #    id: featured
 #    content:
@@ -240,6 +228,7 @@ sections:
     id: featured
     content:
       title: Recent Publications
+      subtitle: Selected work from our latest research.
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -271,6 +260,7 @@ sections:
     id: people
     content:
       title: Meet the Team
+      subtitle: Researchers working across learning, control, robotics, and intelligent systems.
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -314,9 +304,10 @@ sections:
   #   design:
   #     columns: '2'
   - block: markdown
+    id: gallery
     content:
       title: Gallery
-      subtitle: ''
+      subtitle: Life, collaboration, and milestones at AIR-DREAM.
       text: |-
         {{< gallery album="group" >}}
     design:
@@ -327,6 +318,7 @@ sections:
     id: contact
     content:
       title: Contact
+      subtitle: Start a conversation with AIR-DREAM.
       # Contact (add or remove contact options as necessary)
       email: zhanxianyuan@air.tsinghua.edu.cn
 #      phone: 888 888 88 88

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Intern
+role: Basal Intelligence
 role_rank: 3
 
 # Organizations/Affiliations
@@ -72,8 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Research team members
+- Alumni
 ---
 
 I am currently a first-year master's student at the College of Engineering ([CoE](https://en.coe.pku.edu.cn/)), Peking University, advised by Professor [Junzhi Yu](https://ieeexplore.ieee.org/author/37278401500) (IEEE Fellow).

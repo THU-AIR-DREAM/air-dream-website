@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: CEO of Basal Intelligence
 role_rank: 1.5
 
 # Organizations/Affiliations
@@ -73,8 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Research team members
+- Alumni
 ---
 
 Hi! I am currently a 4th-year PhD candidate at [Institude for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/) and [School of Vehicle and Mobility, Tsinghua University](http://www.svm.tsinghua.edu.cn/index.html), advised by [Prof. Xianyuan Zhan](http://zhanxianyuan.xyz/) and [Prof. Ya-Qin Zhang](https://air.tsinghua.edu.cn/en/info/1046/1188.htm). I got my bachelor’s degree in June 2021 from the School of Mechanical Engineering, [Xi’an Jiaotong University](http://en.xjtu.edu.cn/).

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Faculty Member, Research Staff, PhD Student, Research Intern)
-role: Research Intern
+role: Basal Intelligence
 role_rank: 3
 
 # Organizations/Affiliations
@@ -75,8 +75,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Research team members
+- Alumni
 ---
 
 Hi! I am currently a master student at School of Computer Science, Beijing University of Posts and Telecommunications (BUPT). In addition, I am working as a research intern at the Institute for AI Industry Research (AIR), Tsinghua University, under the supervision of Prof. Xianyuan Zhan.
